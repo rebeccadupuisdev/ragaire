@@ -4,14 +4,14 @@ FastAPI + LangChain + Qdrant RAG pipeline for learning Irish — built as a port
 
 ## Current Status
 
-> **Phase 1 complete — infrastructure & config**
+> **Phase 3 complete — RAG pipeline & LLM integration**
 
 | Phase | Description | Status |
 |-------|-------------|--------|
 | 1 | Infra & config (Docker, env, Pydantic settings, tests) | ✅ Done |
-| 2 | Vector store & ingestion pipeline | 🔜 Next |
-| 3 | RAG query chain & LLM integration | ⬜ Planned |
-| 4 | API routes (`/ingest`, `/query`, `/health`) | ⬜ Planned |
+| 2 | Vector store & ingestion pipeline | ✅ Done |
+| 3 | RAG query chain & LLM integration | ✅ Done |
+| 4 | API routes (`/ingest`, `/query`, `/health`) | 🔜 Next |
 | 5 | Frontend chat interface | ⬜ Planned |
 
 ---
@@ -60,7 +60,11 @@ ragaire/
 │   ├── data/
 │   │   └── irish_docs/              # Curated .txt knowledge files
 │   ├── tests/
-│   │   └── test_config.py
+│   │   ├── test_config.py
+│   │   ├── test_qdrant_client.py
+│   │   ├── test_embedder.py
+│   │   ├── test_ingestion.py
+│   │   └── test_pipeline.py
 │   ├── Dockerfile
 │   └── requirements.txt
 ├── frontend/
@@ -109,10 +113,16 @@ This starts:
 
 ### 3. Running tests
 
-With the services running, execute pytest inside the backend container:
+All tests are fully mocked — no live services required. Run from inside the backend container:
 
 ```bash
 docker compose exec backend pytest tests/ -v
+```
+
+Or locally from the `backend/` directory (with dependencies installed):
+
+```bash
+cd backend && pytest tests/ -v
 ```
 
 ---
