@@ -32,13 +32,13 @@ FastAPI + LangChain + Qdrant RAG pipeline for learning Irish — built as a port
 
 ## The Three Endpoints
 
-`**POST /ingest`**
+`POST /ingest`
 Loads Irish language documents from `/data/irish_docs/`, chunks them with LangChain's `RecursiveCharacterTextSplitter`, embeds them, and upserts into the `irish_knowledge` Qdrant collection.
 
-`**POST /query`**
+`POST /query`
 Accepts a question, retrieves the top-k relevant chunks from Qdrant, passes them as context to the LLM, and returns a grounded answer with source citations.
 
-`**GET /health**`
+`GET /health`
 Returns API and vector store status.
 
 ## Project Structure
