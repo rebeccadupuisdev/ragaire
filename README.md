@@ -2,6 +2,20 @@
 
 FastAPI + LangChain + Qdrant RAG pipeline for learning Irish — built as a portfolio project demonstrating applied AI development with a full backend, vector search, and a conversational chat interface.
 
+## Current Status
+
+> **Phase 1 complete — infrastructure & config**
+
+| Phase | Description | Status |
+|-------|-------------|--------|
+| 1 | Infra & config (Docker, env, Pydantic settings, tests) | ✅ Done |
+| 2 | Vector store & ingestion pipeline | 🔜 Next |
+| 3 | RAG query chain & LLM integration | ⬜ Planned |
+| 4 | API routes (`/ingest`, `/query`, `/health`) | ⬜ Planned |
+| 5 | Frontend chat interface | ⬜ Planned |
+
+---
+
 ## The Concept
 
 **RAGaire** (*ragaire* = Late-night rambler in Irish) is an Irish language learning assistant powered by retrieval-augmented generation. Ask it anything about Irish grammar, vocabulary, phrases, or culture — and it will answer using a curated knowledge base, citing exactly which source chunks informed the response.
@@ -46,7 +60,7 @@ ragaire/
 │   ├── data/
 │   │   └── irish_docs/              # Curated .txt knowledge files
 │   ├── tests/
-│   │   └── test_pipeline.py
+│   │   └── test_config.py
 │   ├── Dockerfile
 │   └── requirements.txt
 ├── frontend/

@@ -1,0 +1,20 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+pydantic-settings==2.9.1
+python-dotenv==1.1.0
+loguru==0.7.3
+
+# RAG / LLM
+langchain==0.3.25
+langchain-anthropic==0.3.12
+langchain-cohere==0.4.4
+langchain-qdrant==0.2.0
+
+# Clients
+anthropic==0.52.0
+cohere==5.15.0
+qdrant-client==1.14.2
+
+# Testing
+pytest==8.3.5
+pytest-mock==3.14.0
