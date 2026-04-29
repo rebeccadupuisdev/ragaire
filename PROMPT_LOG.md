@@ -30,6 +30,42 @@ Entry template:
 
 ---
 
+### Entry 005 — 2026-04-29
+
+**Section:** RAG Pipeline — Tests
+
+**Persona:** test.audit → test.generate
+
+**Prompt:** Based on the audit, can you improve the tests?
+
+**What was generated:** Rewrote `test_ingestion.py` and `test_pipeline.py` with a shared `deps` fixture to eliminate repetitive patching, added tests for `loader_cls`, URL construction, embedder forwarding, default `top_k`, `SystemMessage` presence, Anthropic model name, empty-retrieval, and error paths; created `test_embedder.py` (3 tests covering return type, model name, and caching); updated `conftest.py` to clear the `get_embedder` lru_cache. Suite grew from 11 to 30 RAG-specific tests, all 44 passing.
+
+---
+
+### Entry 004 — 2026-04-29
+
+**Section:** RAG Pipeline — Tests
+
+**Persona:** test.audit
+
+**Prompt:** Can you check the tests?
+
+**What was generated:** Audit report identifying gaps in `test_ingestion.py` and `test_pipeline.py`: missing `loader_cls` assertion, no URL or embedding kwarg checks, no default `top_k` test, no `SystemMessage` or model-name assertions, no empty-retrieval or error-path tests, brittle `call_args` unpacking, and zero coverage of `embedder.py`.
+
+---
+
+### Entry 003 — 2026-04-29
+
+**Section:** RAG Pipeline (Phase 3)
+
+**Persona:** code.tutor.stepwise
+
+**Prompt:** Based on the plan, create the code for step 3
+
+**What was generated:** `backend/data/irish_docs/sample_grammar.txt` — placeholder knowledge base stub. `backend/app/rag/embedder.py` — `get_embedder()` lru_cache singleton returning `CohereEmbeddings`. `backend/app/rag/ingestion.py` — `run_ingestion()` loading `.txt` files via `DirectoryLoader`, splitting with `RecursiveCharacterTextSplitter(chunk_size=500, overlap=50)`, and upserting into Qdrant via `QdrantVectorStore.from_documents`. `backend/app/rag/pipeline.py` — `run_query()` retrieving top-k chunks and generating an answer via `ChatAnthropic`, returning `{answer, sources}`. `backend/tests/test_ingestion.py` — 5 tests covering chunk count, loader config, splitter config, and Qdrant upsert. `backend/tests/test_pipeline.py` — 6 tests covering answer/sources keys, LLM response mapping, top-k retrieval, and context passing; required fix to use `autouse` mock for `get_embedder` rather than clearing the lru_cache.
+
+---
+
 ### Entry 002 — 2026-04-29
 
 **Section:** Vector Store (Phase 2)

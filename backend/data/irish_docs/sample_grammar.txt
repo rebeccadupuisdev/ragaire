@@ -1,0 +1,27 @@
+# Irish Language Grammar — Sample Stub
+# DEVELOPER NOTE: Replace this file with real curated content.
+# This placeholder exists only to allow the ingestion pipeline to run during development.
+
+Irish (Gaeilge) is a Goidelic language of the Celtic branch of the Indo-European language family.
+
+## Verb-Subject-Object Order
+Irish follows a Verb-Subject-Object (VSO) word order, which differs from English (SVO).
+Example: "Léann Máire an leabhar." (Máire reads the book.)
+Literal: "Reads Máire the book."
+
+## The Copula
+Irish has two verbs meaning "to be": the copula (is) and the substantive verb (bí).
+The copula (is) links a subject to a noun or adjective predicate.
+Example: "Is múinteoir í." (She is a teacher.)
+The substantive verb (bí) describes states, locations, and ongoing actions.
+Example: "Tá sí sa bhaile." (She is at home.)
+
+## Initial Mutations
+Irish uses initial consonant mutations to mark grammatical relationships.
+There are two main mutations: lenition (séimhiú) and eclipsis (urú).
+Lenition adds 'h' after the initial consonant: "cat" → "chat".
+Eclipsis prefixes a new consonant: "bord" → "mbord".
+
+## Numbers
+Cardinal numbers 1–10: aon, dó, trí, ceathair, cúig, sé, seacht, ocht, naoi, deich.
+Numbers cause mutations on the following noun.

@@ -13,12 +13,15 @@ TEST_PORT = 9999
 def clear_caches():
     """Clear all lru_cache functions before and after every test."""
     from app.config import get_settings
+    from app.rag.embedder import get_embedder
     from app.vector_store.qdrant_client import get_client
 
     get_client.cache_clear()
+    get_embedder.cache_clear()
     get_settings.cache_clear()
     yield
     get_client.cache_clear()
+    get_embedder.cache_clear()
     get_settings.cache_clear()
 
 
