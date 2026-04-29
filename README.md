@@ -73,6 +73,50 @@ ragaire/
 └── README.md
 ```
 
+## Setup
+
+### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) and Docker Compose
+- API keys for [Anthropic](https://console.anthropic.com/) and [Cohere](https://dashboard.cohere.com/)
+
+### 1. Configure environment variables
+
+Copy the example env file and fill in your API keys:
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env` with your keys:
+
+```
+ANTHROPIC_API_KEY=your-key-here
+COHERE_API_KEY=your-key-here
+```
+
+### 2. Start the services
+
+```bash
+docker compose up
+```
+
+This starts:
+- **Qdrant** vector store on `localhost:6333`
+- **FastAPI backend** on `localhost:8000`
+
+> Add `--build` the first time, or after changes to `Dockerfile` or `requirements.txt`.
+
+### 3. Running tests
+
+With the services running, execute pytest inside the backend container:
+
+```bash
+docker compose exec backend pytest tests/ -v
+```
+
+---
+
 ## Development Approach
 
 This project was built with Cursor as an AI-assisted coding environment. Rather than treating AI output as a black box, every significant generation is logged in `PROMPT_LOG.md` — recording what was prompted, what was produced, what was changed, and what was learned in the process.
