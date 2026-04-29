@@ -28,7 +28,19 @@ Entry template:
 
 ## Entries
 
+---
 
+### Entry 002 — 2026-04-29
+
+**Section:** Vector Store (Phase 2)
+
+**Persona:** code.tutor.stepwise
+
+**Prompt:** Based on the plan, create the code for phase 2
+
+**What was generated:** `backend/app/vector_store/qdrant_client.py` — `get_client()` singleton (lru_cache) and `ensure_collection()` with idempotent 404-aware collection creation. `backend/tests/test_qdrant_client.py` — 5 tests covering absent collection, existing collection, non-404 error re-raise, and get_client singleton behaviour; expanded to 14 by developer. `backend/pytest.ini` added so `from app.`* imports resolve inside the container.
+
+**Modifications I made:** I used the test.audit persona to check the tests were correct and complete. I then used the test.generate persona to generate the tests based on the audit.
 
 ---
 
