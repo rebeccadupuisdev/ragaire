@@ -39,7 +39,19 @@ def run_query(question: str, top_k: int = 4) -> dict:
     retrieved_docs = retriever.invoke(question)
     logger.info("Retrieved {} chunks for query.", len(retrieved_docs))
 
-    sources = [doc.page_content for doc in retrieved_docs]
+    seen: set[str] = set()
+    unique_docs = []
+    for doc in retrieved_docs:
+        if doc.page_content not in seen:
+            seen.add(doc.page_content)
+            unique_docs.append(doc)
+    if len(unique_docs) < len(retrieved_docs):
+        logger.warning(
+            "Deduplicated {} duplicate chunk(s) from retrieval results.",
+            len(retrieved_docs) - len(unique_docs),
+        )
+
+    sources = [doc.page_content for doc in unique_docs]
     context = "\n\n---\n\n".join(sources)
 
     llm = ChatAnthropic(model="claude-haiku-4-5-20251001")

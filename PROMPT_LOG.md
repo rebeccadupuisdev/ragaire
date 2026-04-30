@@ -30,6 +30,30 @@ Entry template:
 
 ---
 
+### Entry 010 — 2026-04-29
+
+**Section:** RAG Pipeline — Ingestion
+
+**Prompt:** So I asked a question about numbers, and the source is good, but it shows the title of the first part, but the source is in the second part, is there a way to fix this?
+
+**What was generated:** Changed `ingestion.py` to run `MarkdownHeaderTextSplitter` (splitting on `#`, `##`, `###`) before `RecursiveCharacterTextSplitter`. Each document is first split on heading boundaries so chunks never span two sections; the character splitter then handles any section longer than 500 characters. `strip_headers=False` keeps the heading text inside the chunk so the frontend `extractTitle` can still read it.
+
+---
+
+### Entry 009 — 2026-04-29
+
+**Section:** Frontend (Phase 5)
+
+**Persona:** code.tutor.stepwise
+
+**Prompt:** Based on the plan, create the code for phase 5
+
+**What was generated:** Scaffolded a Next.js 14 App Router project under `frontend/` with Tailwind CSS via `create-next-app@14`. Replaced `frontend/app/page.tsx` with a minimal root page that renders `<ChatWindow />`. Created `frontend/components/ChatWindow.tsx` — a `"use client"` component with controlled input, an auto-scrolling message list (user + assistant turns), `POST /query` on submit via `NEXT_PUBLIC_API_URL`, a bouncing typing indicator while loading, and collapsible source citations per assistant message, all styled with Tailwind utility classes. Updated layout metadata (title/description). Added `frontend/.env.local.example` with `NEXT_PUBLIC_API_URL=http://localhost:8000`.
+
+**Modifications I made:** Tweaked the design with back and forth prompts.
+
+---
+
 ### Entry 008 — 2026-04-29
 
 **Section:** Tests (Full Suite)

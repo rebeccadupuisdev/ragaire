@@ -2,7 +2,7 @@ from pathlib import Path
 
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_qdrant import QdrantVectorStore
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
 from loguru import logger
 
 from app.config import get_settings
@@ -24,10 +24,21 @@ def run_ingestion() -> int:
     docs = loader.load()
     logger.info("Loaded {} documents.", len(docs))
 
-    splitter = RecursiveCharacterTextSplitter(
+    # Split on markdown headings first so chunks never cross section boundaries,
+    # then apply character-level splitting for sections that exceed the chunk size.
+    header_splitter = MarkdownHeaderTextSplitter(
+        headers_to_split_on=[("#", "h1"), ("##", "h2"), ("###", "h3")],
+        strip_headers=False,
+    )
+    char_splitter = RecursiveCharacterTextSplitter(
         chunk_size=_CHUNK_SIZE, chunk_overlap=_CHUNK_OVERLAP
     )
-    chunks = splitter.split_documents(docs)
+
+    header_chunks = []
+    for doc in docs:
+        header_chunks.extend(header_splitter.split_text(doc.page_content))
+
+    chunks = char_splitter.split_documents(header_chunks)
     logger.info("Split into {} chunks.", len(chunks))
 
     settings = get_settings()

@@ -2,20 +2,6 @@
 
 FastAPI + LangChain + Qdrant RAG pipeline for learning Irish — built as a portfolio project demonstrating applied AI development with a full backend, vector search, and a conversational chat interface.
 
-## Current Status
-
-> **Phase 4 complete — API routes & route tests**
-
-| Phase | Description | Status |
-|-------|-------------|--------|
-| 1 | Infra & config (Docker, env, Pydantic settings, tests) | ✅ Done |
-| 2 | Vector store & ingestion pipeline | ✅ Done |
-| 3 | RAG query chain & LLM integration | ✅ Done |
-| 4 | API routes (`/ingest`, `/query`, `/health`) | ✅ Done |
-| 5 | Frontend chat interface | 🔜 Next |
-
----
-
 ## The Concept
 
 **RAGaire** (*ragaire* = Late-night rambler in Irish) is an Irish language learning assistant powered by retrieval-augmented generation. Ask it anything about Irish grammar, vocabulary, phrases, or culture — and it will answer using a curated knowledge base, citing exactly which source chunks informed the response.
@@ -70,9 +56,15 @@ ragaire/
 │   └── requirements.txt
 ├── frontend/
 │   ├── app/
+│   │   ├── globals.css
+│   │   ├── icon.svg
+│   │   ├── layout.tsx               # Root layout (fonts, metadata)
 │   │   └── page.tsx
-│   └── components/
-│       └── ChatWindow.tsx
+│   ├── components/
+│   │   └── ChatWindow.tsx           # Chat UI (messages, sources, input)
+│   ├── next.config.mjs
+│   ├── tailwind.config.ts
+│   └── .env.local.example
 ├── docker-compose.yml
 ├── AGENTS.md
 └── README.md
@@ -100,7 +92,7 @@ ANTHROPIC_API_KEY=your-key-here
 COHERE_API_KEY=your-key-here
 ```
 
-### 2. Start the services
+### 2. Start the backend services
 
 ```bash
 docker compose up
@@ -112,7 +104,18 @@ This starts:
 
 > Add `--build` the first time, or after changes to `Dockerfile` or `requirements.txt`.
 
-### 3. Running tests
+### 3. Start the frontend
+
+```bash
+cd frontend
+cp .env.local.example .env.local
+npm install
+npm run dev
+```
+
+The chat interface is available at `localhost:3000`. By default it connects to the backend at `localhost:8000` — override this in `.env.local` if needed.
+
+### 4. Running tests
 
 All tests are fully mocked — no live services required. Run from inside the backend container:
 
