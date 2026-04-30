@@ -158,6 +158,44 @@ class TestRunQuery:
         messages = deps.llm_instance.invoke.call_args.args[0]
         assert isinstance(messages[0], SystemMessage)
 
+    def test_system_prompt_contains_tutor_persona(self, deps):
+        """The system prompt instructs the LLM to act as an Irish language tutor."""
+        run_query(_FAKE_QUESTION)
+
+        messages = deps.llm_instance.invoke.call_args.args[0]
+        assert "Irish" in messages[0].content
+
+    def test_question_arrives_in_human_message(self, deps):
+        """The user question is sent inside a HumanMessage, not the system message."""
+        from langchain_core.messages import HumanMessage
+
+        run_query(_FAKE_QUESTION)
+
+        messages = deps.llm_instance.invoke.call_args.args[0]
+        human_messages = [m for m in messages if isinstance(m, HumanMessage)]
+        assert any(_FAKE_QUESTION in m.content for m in human_messages)
+
+    def test_embedder_passed_to_vector_store(self, deps, mock_embedder):
+        """The cached embedder instance is forwarded to QdrantVectorStore."""
+        run_query(_FAKE_QUESTION)
+
+        call_kwargs = deps.Qdrant.from_existing_collection.call_args.kwargs
+        assert call_kwargs["embedding"] is mock_embedder.return_value
+
+    def test_empty_question_returns_empty_sources(self, deps):
+        """An empty question string is legal; sources list reflects retriever output."""
+        deps.retriever.invoke.return_value = []
+
+        result = run_query("")
+
+        assert result["sources"] == []
+
+    def test_empty_question_forwarded_to_retriever(self, deps):
+        """An empty question string is passed through to retriever.invoke as-is."""
+        run_query("")
+
+        deps.retriever.invoke.assert_called_once_with("")
+
     def test_uses_correct_anthropic_model(self, deps):
         run_query(_FAKE_QUESTION)
 

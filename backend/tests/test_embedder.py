@@ -7,6 +7,14 @@ from app.rag.embedder import get_embedder
 _EMBEDDER_MOD = "app.rag.embedder"
 
 
+@pytest.fixture(autouse=True)
+def clear_cache():
+    """Ensure lru_cache does not leak state between tests."""
+    get_embedder.cache_clear()
+    yield
+    get_embedder.cache_clear()
+
+
 class TestGetEmbedder:
     def test_returns_object_produced_by_cohere_embeddings(self):
         with patch(f"{_EMBEDDER_MOD}.CohereEmbeddings") as MockCohere:
@@ -33,3 +41,9 @@ class TestGetEmbedder:
 
         assert first is second
         MockCohere.assert_called_once()
+
+    def test_raises_when_cohere_constructor_fails(self):
+        """Constructor errors (e.g. missing API key) propagate to the caller."""
+        with patch(f"{_EMBEDDER_MOD}.CohereEmbeddings", side_effect=ValueError("missing key")):
+            with pytest.raises(ValueError, match="missing key"):
+                get_embedder()

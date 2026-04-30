@@ -4,15 +4,15 @@ FastAPI + LangChain + Qdrant RAG pipeline for learning Irish — built as a port
 
 ## Current Status
 
-> **Phase 3 complete — RAG pipeline & LLM integration**
+> **Phase 4 complete — API routes & route tests**
 
 | Phase | Description | Status |
 |-------|-------------|--------|
 | 1 | Infra & config (Docker, env, Pydantic settings, tests) | ✅ Done |
 | 2 | Vector store & ingestion pipeline | ✅ Done |
 | 3 | RAG query chain & LLM integration | ✅ Done |
-| 4 | API routes (`/ingest`, `/query`, `/health`) | 🔜 Next |
-| 5 | Frontend chat interface | ⬜ Planned |
+| 4 | API routes (`/ingest`, `/query`, `/health`) | ✅ Done |
+| 5 | Frontend chat interface | 🔜 Next |
 
 ---
 
@@ -64,7 +64,8 @@ ragaire/
 │   │   ├── test_qdrant_client.py
 │   │   ├── test_embedder.py
 │   │   ├── test_ingestion.py
-│   │   └── test_pipeline.py
+│   │   ├── test_pipeline.py
+│   │   └── test_routes.py
 │   ├── Dockerfile
 │   └── requirements.txt
 ├── frontend/

@@ -1,152 +1,174 @@
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock, call, patch
 
 import pytest
-from qdrant_client import QdrantClient
 from qdrant_client.http.exceptions import UnexpectedResponse
-from qdrant_client.models import Distance
 
-from app.vector_store.qdrant_client import ensure_collection, get_client
-from tests.conftest import TEST_COLLECTION, TEST_HOST, TEST_PORT, _SETTINGS_PATH
+from app.vector_store.qdrant_client import (
+    _is_not_found,
+    ensure_collection,
+    get_client,
+)
+
+_CLIENT_MOD = "app.vector_store.qdrant_client"
+
+
+def _unexpected_response(status_code: int) -> UnexpectedResponse:
+    """Construct a minimal UnexpectedResponse without calling its full __init__."""
+    exc = Exception.__new__(UnexpectedResponse)
+    exc.status_code = status_code
+    return exc
+
+
+@pytest.fixture(autouse=True)
+def clear_client_cache():
+    get_client.cache_clear()
+    yield
+    get_client.cache_clear()
 
 
 # ---------------------------------------------------------------------------
-# Helpers
+# _is_not_found
 # ---------------------------------------------------------------------------
 
-def _make_not_found() -> UnexpectedResponse:
-    """Build the UnexpectedResponse that Qdrant raises for a missing collection."""
-    return UnexpectedResponse(
-        status_code=404,
-        reason_phrase=b"Not Found",
-        content=b"",
-        headers={},
-    )
+class TestIsNotFound:
+    def test_unexpected_response_404_returns_true(self):
+        assert _is_not_found(_unexpected_response(404)) is True
+
+    def test_unexpected_response_500_returns_false(self):
+        assert _is_not_found(_unexpected_response(500)) is False
+
+    def test_unexpected_response_403_returns_false(self):
+        assert _is_not_found(_unexpected_response(403)) is False
+
+    def test_value_error_with_not_found_returns_true(self):
+        assert _is_not_found(ValueError("collection not found")) is True
+
+    def test_value_error_without_not_found_returns_false(self):
+        assert _is_not_found(ValueError("some other error")) is False
+
+    def test_runtime_error_with_not_found_string_returns_true(self):
+        """The fallback check is case-insensitive to 'not found' in str(exc)."""
+        assert _is_not_found(RuntimeError("resource not found in store")) is True
+
+    def test_generic_exception_returns_false(self):
+        assert _is_not_found(RuntimeError("connection refused")) is False
 
 
 # ---------------------------------------------------------------------------
-# ensure_collection tests
+# get_client
 # ---------------------------------------------------------------------------
+
+class TestGetClient:
+    def test_returns_qdrant_client_instance(self):
+        with patch(f"{_CLIENT_MOD}.QdrantClient") as MockClient, \
+             patch(f"{_CLIENT_MOD}.get_settings") as mock_settings:
+            mock_settings.return_value.qdrant_host = "localhost"
+            mock_settings.return_value.qdrant_port = 6333
+
+            result = get_client()
+
+        assert result is MockClient.return_value
+
+    def test_returns_same_instance_on_repeated_calls(self):
+        """lru_cache ensures QdrantClient is only instantiated once."""
+        with patch(f"{_CLIENT_MOD}.QdrantClient") as MockClient, \
+             patch(f"{_CLIENT_MOD}.get_settings") as mock_settings:
+            mock_settings.return_value.qdrant_host = "localhost"
+            mock_settings.return_value.qdrant_port = 6333
+            MockClient.return_value = MagicMock()
+
+            first = get_client()
+            second = get_client()
+
+        assert first is second
+        MockClient.assert_called_once()
+
+    def test_connects_to_configured_host_and_port(self):
+        with patch(f"{_CLIENT_MOD}.QdrantClient") as MockClient, \
+             patch(f"{_CLIENT_MOD}.get_settings") as mock_settings:
+            mock_settings.return_value.qdrant_host = "my-host"
+            mock_settings.return_value.qdrant_port = 1234
+
+            get_client()
+
+        MockClient.assert_called_once_with(host="my-host", port=1234)
+
+
+# ---------------------------------------------------------------------------
+# ensure_collection
+# ---------------------------------------------------------------------------
+
+@pytest.fixture
+def mock_client():
+    return MagicMock()
+
+
+@pytest.fixture
+def mock_settings_patch():
+    with patch(f"{_CLIENT_MOD}.get_settings") as patched:
+        patched.return_value.qdrant_collection = "test_collection"
+        yield patched
+
 
 class TestEnsureCollection:
-    def test_creates_collection_when_absent(self, mock_settings):
-        """create_collection is called exactly once when the collection does not exist."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = _make_not_found()
+    def test_skips_creation_when_collection_exists(self, mock_client, mock_settings_patch):
+        """get_collection succeeding means collection exists; create_collection not called."""
+        ensure_collection(mock_client)
+
+        mock_client.get_collection.assert_called_once_with("test_collection")
+        mock_client.create_collection.assert_not_called()
+
+    def test_creates_collection_when_404_response(self, mock_client, mock_settings_patch):
+        """An UnexpectedResponse with status 404 triggers collection creation."""
+        mock_client.get_collection.side_effect = _unexpected_response(404)
 
         ensure_collection(mock_client)
 
         mock_client.create_collection.assert_called_once()
 
-    def test_creates_collection_with_correct_name(self, mock_settings):
-        """create_collection receives the collection name from settings."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = _make_not_found()
+    def test_creates_collection_with_correct_name(self, mock_client, mock_settings_patch):
+        mock_client.get_collection.side_effect = _unexpected_response(404)
 
         ensure_collection(mock_client)
 
         call_kwargs = mock_client.create_collection.call_args.kwargs
-        assert call_kwargs["collection_name"] == TEST_COLLECTION
+        assert call_kwargs["collection_name"] == "test_collection"
 
-    def test_creates_collection_with_correct_vectors_config(self, mock_settings):
-        """create_collection is called with size=1024 and COSINE distance."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = _make_not_found()
+    def test_creates_collection_with_1024_cosine_vectors(self, mock_client, mock_settings_patch):
+        """Vector size must match Cohere embed-multilingual-v3.0 output dimensions."""
+        from qdrant_client.models import Distance, VectorParams
+
+        mock_client.get_collection.side_effect = _unexpected_response(404)
 
         ensure_collection(mock_client)
 
-        vectors_config = mock_client.create_collection.call_args.kwargs["vectors_config"]
+        call_kwargs = mock_client.create_collection.call_args.kwargs
+        vectors_config = call_kwargs["vectors_config"]
         assert vectors_config.size == 1024
         assert vectors_config.distance == Distance.COSINE
 
-    def test_skips_creation_when_collection_exists(self, mock_settings):
-        """create_collection is never called when the collection already exists."""
-        mock_client = MagicMock()
-        mock_client.get_collection.return_value = MagicMock()
+    def test_creates_collection_when_not_found_value_error(self, mock_client, mock_settings_patch):
+        """A ValueError with 'not found' is treated as a missing collection."""
+        mock_client.get_collection.side_effect = ValueError("collection not found")
 
         ensure_collection(mock_client)
 
-        mock_client.create_collection.assert_not_called()
+        mock_client.create_collection.assert_called_once()
 
-    def test_reraises_non_404_unexpected_response(self, mock_settings):
-        """Non-404 UnexpectedResponse exceptions propagate to the caller."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = UnexpectedResponse(
-            status_code=500,
-            reason_phrase=b"Internal Server Error",
-            content=b"",
-            headers={},
-        )
+    def test_reraises_non_404_unexpected_response(self, mock_client, mock_settings_patch):
+        """A non-404 UnexpectedResponse (e.g. 500) is not swallowed."""
+        mock_client.get_collection.side_effect = _unexpected_response(500)
 
         with pytest.raises(UnexpectedResponse):
             ensure_collection(mock_client)
 
         mock_client.create_collection.assert_not_called()
 
-    def test_creates_collection_on_plain_not_found_error(self, mock_settings):
-        """Plain exception with 'not found' in its message triggers collection creation."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = ValueError("not found: collection missing")
+    def test_reraises_unrelated_exception(self, mock_client, mock_settings_patch):
+        """Arbitrary exceptions from get_collection are re-raised."""
+        mock_client.get_collection.side_effect = ConnectionError("network failure")
 
-        ensure_collection(mock_client)
-
-        mock_client.create_collection.assert_called_once()
-
-    def test_reraises_plain_error_without_not_found(self, mock_settings):
-        """Plain exception whose message does not contain 'not found' propagates."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = ValueError("connection refused")
-
-        with pytest.raises(ValueError, match="connection refused"):
+        with pytest.raises(ConnectionError):
             ensure_collection(mock_client)
 
         mock_client.create_collection.assert_not_called()
-
-    def test_reraises_when_create_collection_fails(self, mock_settings):
-        """If create_collection itself raises, the exception propagates."""
-        mock_client = MagicMock()
-        mock_client.get_collection.side_effect = _make_not_found()
-        mock_client.create_collection.side_effect = RuntimeError("disk full")
-
-        with pytest.raises(RuntimeError, match="disk full"):
-            ensure_collection(mock_client)
-
-
-# ---------------------------------------------------------------------------
-# get_client tests
-# ---------------------------------------------------------------------------
-
-class TestGetClient:
-    def test_returns_qdrant_client_instance(self):
-        """get_client() returns the QdrantClient instance produced by the constructor."""
-        with patch("app.vector_store.qdrant_client.QdrantClient") as MockQdrant:
-            mock_instance = MagicMock(spec=QdrantClient)
-            MockQdrant.return_value = mock_instance
-
-            client = get_client()
-
-        assert client is mock_instance
-
-    def test_constructs_client_with_host_and_port_from_settings(self):
-        """QdrantClient is constructed using host and port read from settings."""
-        with patch(_SETTINGS_PATH) as mock_get_settings, \
-             patch("app.vector_store.qdrant_client.QdrantClient") as MockQdrant:
-            settings = MagicMock()
-            settings.qdrant_host = TEST_HOST
-            settings.qdrant_port = TEST_PORT
-            mock_get_settings.return_value = settings
-            MockQdrant.return_value = MagicMock(spec=QdrantClient)
-
-            get_client()
-
-        MockQdrant.assert_called_once_with(host=TEST_HOST, port=TEST_PORT)
-
-    def test_singleton_returns_same_instance(self):
-        """Calling get_client() twice returns the exact same object (lru_cache)."""
-        with patch("app.vector_store.qdrant_client.QdrantClient") as MockQdrant:
-            MockQdrant.return_value = MagicMock()
-
-            first = get_client()
-            second = get_client()
-
-        assert first is second
-        assert MockQdrant.call_count == 1

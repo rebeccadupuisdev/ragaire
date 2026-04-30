@@ -118,6 +118,36 @@ class TestRunIngestion:
         call_kwargs = deps.Qdrant.from_documents.call_args.kwargs
         assert call_kwargs["embedding"] is deps.embedder.return_value
 
+    def test_loader_called_once(self, deps):
+        run_ingestion()
+
+        deps.Loader.return_value.load.assert_called_once()
+
+    def test_splitter_receives_loaded_documents(self, deps):
+        """split_documents is called with the docs returned by loader.load()."""
+        loaded = _fake_docs()
+        deps.Loader.return_value.load.return_value = loaded
+
+        run_ingestion()
+
+        deps.Splitter.return_value.split_documents.assert_called_once_with(loaded)
+
+    def test_directory_loader_path_targets_irish_docs(self, deps):
+        """DirectoryLoader is initialised with a path ending in data/irish_docs."""
+        run_ingestion()
+
+        loader_path = deps.Loader.call_args.args[0]
+        assert loader_path.endswith("data/irish_docs")
+
+    def test_from_documents_called_even_when_chunks_empty(self, deps):
+        """QdrantVectorStore.from_documents is always called, even with zero chunks."""
+        deps.Loader.return_value.load.return_value = []
+        deps.Splitter.return_value.split_documents.return_value = []
+
+        run_ingestion()
+
+        deps.Qdrant.from_documents.assert_called_once()
+
     def test_raises_when_loader_fails(self, deps):
         deps.Loader.return_value.load.side_effect = OSError("directory not found")
 

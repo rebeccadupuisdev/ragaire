@@ -30,6 +30,42 @@ Entry template:
 
 ---
 
+### Entry 008 — 2026-04-29
+
+**Section:** Tests (Full Suite)
+
+**Persona:** test.generate
+
+**Prompt:** Based on the audit, can you improve the tests?
+
+**What was generated:** Added `ge=1` constraint to `QueryRequest.top_k` in `routes.py`; added `autouse` `lru_cache` clear fixtures to `test_embedder.py` and `test_config.py`; added 4 new ingestion tests (loader invoked, splitter receives loaded docs, path ends with `data/irish_docs`, `from_documents` called even with empty chunks); added 6 new pipeline tests (embedder forwarded to vector store, system prompt content, question in `HumanMessage`, empty question edge cases); added 5 new route tests (error propagation for `/ingest` and `/query`, `top_k=0` and negative value 422s, robust question-forwarding assertion); created `test_qdrant_client.py` (17 tests covering `_is_not_found` branches, `get_client` singleton and host/port wiring, `ensure_collection` happy path, 404 creation, name/vector config, fallback `ValueError`, non-404 and generic re-raises); created `test_config.py` (8 tests for defaults isolated from `.env`, env overrides, and `get_settings` caching). Suite grew from 44 to 81 tests, all passing.
+
+---
+
+### Entry 007 — 2026-04-29
+
+**Section:** Tests (Full Suite)
+
+**Persona:** test.audit
+
+**Prompt:** Can you check the tests?
+
+**What was generated:** Audit report across all four existing test files (`test_embedder.py`, `test_ingestion.py`, `test_pipeline.py`, `test_routes.py`) plus the two completely untested modules (`qdrant_client.py`, `config.py`). Identified `lru_cache` state leakage between tests, missing assertions for splitter input, embedder wiring, system prompt content and `HumanMessage` type, no error-path tests for `/ingest` or `/query`, no `top_k` boundary validation, and zero coverage of `ensure_collection`, `_is_not_found`, `get_client`, and `Settings`.
+
+---
+
+### Entry 006 — 2026-04-29
+
+**Section:** API Layer (Phase 4)
+
+**Persona:** code.tutor.stepwise
+
+**Prompt:** Based on the plan, create the code for phase 4
+
+**What was generated:** `backend/app/main.py` — FastAPI app with Loguru stdlib intercept, CORS middleware (allow all origins), `load_dotenv()` before router import, and `include_router`. `backend/app/api/routes.py` — `QueryRequest`, `QueryResponse`, `IngestResponse`, `HealthResponse` Pydantic models and three async route handlers: `POST /ingest` calling `run_ingestion()`, `POST /query` calling `run_query()`, `GET /health` pinging Qdrant via `get_client()`. `backend/tests/test_routes.py` — 11 `TestClient` tests across three classes covering status codes, response schemas, argument forwarding, default and custom `top_k`, 422 on missing body, and Qdrant unavailable fallback.
+
+---
+
 ### Entry 005 — 2026-04-29
 
 **Section:** RAG Pipeline — Tests
@@ -60,7 +96,7 @@ Entry template:
 
 **Persona:** code.tutor.stepwise
 
-**Prompt:** Based on the plan, create the code for step 3
+**Prompt:** Based on the plan, create the code for phase 3
 
 **What was generated:** `backend/data/irish_docs/sample_grammar.txt` — placeholder knowledge base stub. `backend/app/rag/embedder.py` — `get_embedder()` lru_cache singleton returning `CohereEmbeddings`. `backend/app/rag/ingestion.py` — `run_ingestion()` loading `.txt` files via `DirectoryLoader`, splitting with `RecursiveCharacterTextSplitter(chunk_size=500, overlap=50)`, and upserting into Qdrant via `QdrantVectorStore.from_documents`. `backend/app/rag/pipeline.py` — `run_query()` retrieving top-k chunks and generating an answer via `ChatAnthropic`, returning `{answer, sources}`. `backend/tests/test_ingestion.py` — 5 tests covering chunk count, loader config, splitter config, and Qdrant upsert. `backend/tests/test_pipeline.py` — 6 tests covering answer/sources keys, LLM response mapping, top-k retrieval, and context passing; required fix to use `autouse` mock for `get_embedder` rather than clearing the lru_cache.
 
