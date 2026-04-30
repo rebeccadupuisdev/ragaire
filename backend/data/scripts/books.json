@@ -1,0 +1,23 @@
+{
+  "teach_yourself_irish": {
+    "pdf": "backend/data/raw_data/teach_yourself_irish.pdf",
+    "output": "backend/data/irish_docs/teach_yourself_irish.txt",
+    "skip_below": 12.0,
+    "h1": 22.0,
+    "h2": 18.5
+  },
+  "buntus_cainte": {
+    "pdf": "backend/data/raw_data/buntus_cainte.pdf",
+    "output": "backend/data/irish_docs/buntus_cainte.txt",
+    "skip_below": 10.0,
+    "h1": 14.0,
+    "h2": 13.0
+  },
+  "colloquial_irish": {
+    "pdf": "backend/data/raw_data/colloquial_irish.pdf",
+    "output": "backend/data/irish_docs/colloquial_irish.txt",
+    "skip_below": 8.5,
+    "h1": 18.0,
+    "h2": 12.0
+  }
+}

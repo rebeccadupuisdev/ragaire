@@ -30,6 +30,16 @@ Entry template:
 
 ---
 
+### Entry 011 — 2026-04-30
+
+**Section:** RAG Pipeline — Sources / Frontend
+
+**Prompt:** Can you make the change to display the title of the book for the source?
+
+**What was generated:** Added book title metadata across the full stack: `ingestion.py` now derives a display title from each file's stem and stamps it onto every chunk's metadata after header splitting; `pipeline.py` returns structured `{"content", "title"}` dicts instead of plain strings; `routes.py` introduces a `SourceDoc` Pydantic model and updates `QueryResponse`; `ChatWindow.tsx` gains a `SourceDoc` interface, removes the `extractTitle` helper, and reads the title directly from the API response.
+
+---
+
 ### Entry 010 — 2026-04-29
 
 **Section:** RAG Pipeline — Ingestion

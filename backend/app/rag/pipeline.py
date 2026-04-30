@@ -51,8 +51,14 @@ def run_query(question: str, top_k: int = 4) -> dict:
             len(retrieved_docs) - len(unique_docs),
         )
 
-    sources = [doc.page_content for doc in unique_docs]
-    context = "\n\n---\n\n".join(sources)
+    sources = [
+        {
+            "content": doc.page_content,
+            "title": doc.metadata.get("title", f"Source {i + 1}"),
+        }
+        for i, doc in enumerate(unique_docs)
+    ]
+    context = "\n\n---\n\n".join(s["content"] for s in sources)
 
     llm = ChatAnthropic(model="claude-haiku-4-5-20251001")
     messages = [

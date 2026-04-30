@@ -2,11 +2,17 @@
 
 import { useState, useRef, useEffect } from "react";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+
+interface SourceDoc {
+  content: string;
+  title: string;
+}
 
 interface Message {
   role: "user" | "assistant";
   content: string;
-  sources?: string[];
+  sources?: SourceDoc[];
 }
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
@@ -58,7 +64,7 @@ export default function ChatWindow() {
         body: JSON.stringify({ question, top_k: 4 }),
       });
       if (!res.ok) throw new Error(`Server error: ${res.status}`);
-      const data: { answer: string; sources: string[] } = await res.json();
+      const data: { answer: string; sources: SourceDoc[] } = await res.json();
       setMessages((prev) => [
         ...prev,
         { role: "assistant", content: data.answer, sources: data.sources },
@@ -232,37 +238,40 @@ const mdComponents: React.ComponentProps<typeof ReactMarkdown>["components"] = {
       {children}
     </blockquote>
   ),
+  table: ({ children }) => (
+    <div className="overflow-x-auto my-3">
+      <table style={{ borderCollapse: "collapse", width: "100%", fontSize: "0.9rem" }}>
+        {children}
+      </table>
+    </div>
+  ),
+  thead: ({ children }) => (
+    <thead style={{ borderBottom: "2px solid rgba(255,255,255,0.15)" }}>{children}</thead>
+  ),
+  tbody: ({ children }) => <tbody>{children}</tbody>,
+  tr: ({ children }) => (
+    <tr style={{ borderBottom: "1px solid rgba(255,255,255,0.07)" }} className="transition-colors hover:bg-white/[0.03]">
+      {children}
+    </tr>
+  ),
+  th: ({ children }) => (
+    <th
+      style={{ color: "#c0c0bc", fontWeight: 600, textAlign: "left", padding: "0.5rem 0.75rem", fontFamily: "var(--font-quicksand), sans-serif" }}
+    >
+      {children}
+    </th>
+  ),
+  td: ({ children }) => (
+    <td style={{ color: "#e8e8e5", padding: "0.45rem 0.75rem", verticalAlign: "top" }}>
+      {children}
+    </td>
+  ),
 };
 
-function extractTitle(src: string, index: number): string {
-  let documentTitle: string | null = null;
-  let sectionTitle: string | null = null;
-
-  for (const line of src.split("\n")) {
-    const trimmed = line.trim();
-    const match = trimmed.match(/^(#{1,3})\s+(.+)/);
-    if (match) {
-      const level = match[1].length;
-      const text = match[2];
-      if (level >= 2 && !sectionTitle) sectionTitle = text;
-      if (level === 1 && !documentTitle) documentTitle = text;
-    }
-  }
-
-  if (sectionTitle) return sectionTitle;
-  if (documentTitle) return documentTitle;
-
-  for (const line of src.split("\n")) {
-    const trimmed = line.trim();
-    if (trimmed.length > 0 && trimmed.length < 80) return trimmed;
-  }
-  return `Source ${index + 1}`;
-}
-
-function SourceItem({ source, index }: { source: string; index: number }) {
+function SourceItem({ source }: { source: SourceDoc }) {
   const [open, setOpen] = useState(false);
-  const title = extractTitle(source, index);
-  const body = source
+  const { title, content } = source;
+  const body = content
     .split("\n")
     .filter((line) => !line.trim().match(/^#{1,3}\s+/))
     .join("\n")
@@ -320,7 +329,7 @@ function MessageBubble({ message }: { message: Message }) {
             style={{ color: "#e8e8e5", fontSize: "1rem", lineHeight: "1.7", fontFamily: "var(--font-source-serif), serif", fontWeight: 200 }}
             className="prose-sm max-w-none"
           >
-            <ReactMarkdown components={mdComponents}>{message.content}</ReactMarkdown>
+            <ReactMarkdown components={mdComponents} remarkPlugins={[remarkGfm]}>{message.content}</ReactMarkdown>
           </div>
 
           {message.sources && message.sources.length > 0 && (
@@ -329,7 +338,7 @@ function MessageBubble({ message }: { message: Message }) {
                 {message.sources.length} source{message.sources.length !== 1 ? "s" : ""} retrieved
               </p>
               {message.sources.map((src, i) => (
-                <SourceItem key={i} source={src} index={i} />
+                <SourceItem key={i} source={src} />
               ))}
             </div>
           )}

@@ -170,3 +170,4 @@ cython_debug/
 .ruff_cache/
 /frontend/static/content/
 /prototype
+/backend/data/raw_data/

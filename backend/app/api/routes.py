@@ -20,11 +20,18 @@ class QueryRequest(BaseModel):
     top_k: int = Field(default=4, ge=1)
 
 
+class SourceDoc(BaseModel):
+    """A single retrieved source chunk."""
+
+    content: str
+    title: str
+
+
 class QueryResponse(BaseModel):
     """Response body for POST /query."""
 
     answer: str
-    sources: list[str]
+    sources: list[SourceDoc]
 
 
 class IngestResponse(BaseModel):
@@ -58,7 +65,10 @@ async def query(body: QueryRequest) -> QueryResponse:
     """Run a RAG query and return an answer with source citations."""
     logger.info("Query request received: {!r}", body.question)
     result = run_query(body.question, top_k=body.top_k)
-    return QueryResponse(answer=result["answer"], sources=result["sources"])
+    return QueryResponse(
+        answer=result["answer"],
+        sources=[SourceDoc(**s) for s in result["sources"]],
+    )
 
 
 @router.get("/health", response_model=HealthResponse)

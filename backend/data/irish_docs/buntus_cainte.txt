@@ -1,0 +1,5346 @@
+# ** Buntús Cainte 1 **
+
+# **Ceacht 1 **
+
+it is
+tá sé
+cold
+fuar
+wet
+fliuch
+dry
+tirim
+dark
+dorcha
+bright
+geal
+It is very cold
+Tá sé an-fhuar
+It is very warm
+Tá sé an-te
+It is very wet
+Tá sé an-fhliuch
+It is very dry
+Tá sé an-tirim
+It is very dark
+Tá sé an-dorcha
+It is very bright
+Tá sé an-gheal
+It's very cold, but it's dry
+Tá sé an-fhuar, ach tá sé tirim
+It is dry, thank God
+Tá sé tirim, buíochas le Dia
+
+# ** Ceacht 2 **
+
+weather
+an aimsir
+fine
+go breá
+nice
+go deas
+good
+go maith
+night
+an oíche
+morning
+an mhaidin
+
+bad
+go dona
+beautiful
+go hálainn
+wonderful
+go hiontach
+The day isn't good
+Níl an lá go maith
+The weather is bad
+Tá an aimsir go dona
+The night is fine
+Tá an oíche go breá
+The night isn't nice
+Níl an oíche go deas
+The morning isn't good
+Níl an mhaidin go maith
+now
+anois
+today
+inniu
+It's beautiful now, thank God
+Tá sé go hálainn anois, buíochas le
+Dia
+
+# ** Ceacht 3 **
+
+big
+mór
+small
+beag
+old
+sean
+young
+óg
+well
+go maith
+ill, sick
+tinn
+that
+sin
+with you
+leat
+is
+is
+at all
+ar chor ar bith
+that's good
+is maith sin
+
+He is big, he's not small
+Tá sé mór, níl sé beag
+He's old, he's not young
+Tá sé sean, níl sé óg
+He is well, he's not ill
+Tá sé go maith, níl sé tinn
+He is very big
+Tá sé an-mhór
+He is very small
+Tá sé an-bheag
+He is very old
+Tá sé an-sean
+He is very young
+Tá sé an-óg
+He is very good
+Tá sé an-mhaith
+He is very ill
+Tá sé an-tinn
+Sean isn't with you today?
+Níl Seán leat inniu?
+No, he's sick
+Níl, tá sé tinn
+He's not very ill?
+Níl sé an-tinn?
+He's not bad now at all
+Níl sé go dona anois ar chor ar bith
+That's good, thank God
+Is maith sin, buíochas le Dia
+
+# ** Ceacht 4 **
+
+I am
+tá mé
+I am not
+níl mé
+you are
+tá tú
+you are not
+níl tú
+strong
+láidir
+weak
+lag
+fat
+ramhar
+thin
+tanaí
+
+clean
+glan
+dirty
+salach
+again
+arís
+very well
+go han-mhaith
+I am strong, you are weak
+Tá mé láidir, tá tú lag
+I am not strong, you are not weak
+Níl mé láidir, níl tú lag
+I am fat, you are thin
+Tá mé ramhar, tá tú tanaí
+I am not fat, you are not thin
+Níl mé ramhar, níl tú tanaí
+I am clean, you are dirty
+Tá mé glan, tá tú salach
+I am not clean, you are not dirty
+Níl mé glan, níl tú salach
+I am not bad now
+Níl mé go dona anois
+I'm well today
+Tá mé go maith inniu
+Am I nice?
+An bhfuil mé go deas?
+You're beautiful, indeed
+Tá tú go hálainn, maise
+You're not wet?
+Níl tú fliuch?
+Good day, Seamas
+Dia duit, a Shéamais
+Good day to you, Nora
+Dia's Muire duit, a Nóra
+You're well again?
+Tá tú go maith arís?
+I am very well now, thank God
+Tá mé go han-mhaith anois,
+buíochas le Dia
+It's a bad day. Are you cold?
+Tá an lá go dona. An bhfuil tú fuar?
+No, indeed, I'm not cold at all
+Níl, maise, níl mé fuar ar chor ar
+bith
+
+# ** Ceacht 5 **
+
+is? are?
+an bhfuil?
+she, it
+sí
+she is, it is
+tá sí
+is she? is it?
+an bhfuil sí?
+she is not
+nil sí
+here
+anseo
+there
+ansin
+inside
+istigh
+outside
+amuigh
+above
+thuas
+below
+thíos
+Are you there again?
+An bhfuil tú ansin arís?
+I am here now
+Tá mé anseo anois
+He is not inside
+Níl sé istigh
+He is up there
+Tá sé thuas ansin
+She is below
+Tá sí thíos
+He is not out here
+Níl sé amuigh anseo
+in the
+sa
+in the garden
+sa ghairdín
+and
+agus
+(when addressing) Sean
+a Sheáin
+also
+fresin
+right
+ceart
+right enough
+ceart go leor
+
+Are you there Sean?
+An bhfuil tú ansin, a Sheáin?
+Yes, I'm here in the garden
+Tá, tá mé anseo sa ghairdín
+And is Máire there also?
+Agus an bhfuil Máire ansin fresin?
+She's not here, she's inside
+Níl sí anseo, tá sí istigh
+She's not inside. Oh, yes, she's
+inside now, right enough
+
+Níl sí istigh. Ó tá, tá sí istigh, ceart
+go leor
+
+# ** Ceacht 6 **
+
+where?
+cá?
+
+the
+an
+where am I?
+cá bhfuil mé?
+where are you?
+cá bhfuil tú?
+where is he (it)?
+cá bhfuil sé?
+where is she? (it)?
+cá bhfuil sí?
+where is Seán?
+cá bhfuil Seán?
+where is the - ?
+ca bhfuil an - ?
+daddy
+daidí
+mammy
+mamaí
+the man
+an fear
+the woman
+an bhean
+the boy
+an buachaill
+the girl
+an cailín
+Where is he at all?
+Cá bhfuil sé ar chor ar bith?
+Where are you now, Seán?
+Cá bhfuil tú anois, a Sheáin?
+I am in here
+Tá mé istigh anseo
+
+Where is she now?
+Cá bhfuil sí anois?
+She's not outside here
+Níl sí amuigh anseo
+
+She is outside in the garden, right
+enough
+
+Tá sí amuigh sa ghairdín, ceart go
+leor
+
+it is
+sea
+is it?
+an ea?
+no, it is not
+ní hea
+in the kitchen
+sa chistin
+upstairs
+thuas (an) staighre
+Where's Seán?
+Cá bhfuil Seán?
+He's out
+Tá sé amuigh
+Is mammy out also?
+An bhfuil mamaí amuigh fresin?
+No, she's in
+Níl, tá sí istigh
+In the kitchen, is it?
+Sa chistin, an ea?
+No, she's upstairs
+Ní hea, tá sí thuas (an) staighre
+
+# ** Ceacht 7 **
+
+at home
+sa bhaile
+in the house
+sa teach
+in the bed
+sa leaba
+in the room
+sa seomra
+in the school
+sa scoil
+at school (attending)
+ar scoil
+Is daddy at home?
+An bhfuil daidaí sa bhaile?
+The girl is not in the kitchen now
+Níl an cailín sa chistin anois
+
+The big boy is in the school
+Tá an buachaill mór sa scoil
+Mammy is in bed
+Tá mamaí sa leaba
+Is the fat man in the house?
+An bhfuil an fear ramhar sa teach?
+The woman is not in the little room
+Níl an bhean sa seomra beag
+good enough
+maith go leor
+bad enough
+dona go leor
+good-bye (said by one going away
+from listener)
+
+slán agat
+a reply to slán agat
+slán leat
+Good day Seán, is daddy at home?
+Dia duit, a Sheáin, an bhfuil daidí sa
+bhaile?
+No, he's out
+Níl, tá sé amuigh
+
+Is mammy in?
+An bhfuil mamaí istigh?
+Mammy isn't well. She's in bed
+Níl mamaí go maith. Tá sí sa leaba
+Bad enough. Good-bye
+Dona go leor. Slán agat
+Good bye
+Slán leat
+
+# ** Ceacht 8 **
+
+one, any
+aon
+a person
+duine
+any person, anyone
+aon duine
+a thing
+rud
+anything
+aon rud
+in the bus
+sa bhus
+in the car
+sa charr
+in the boat
+sa bhád
+
+in the train
+sa traein
+in the station
+sa stáisiún
+in the box
+sa bhosca
+Is anyone in the station now?
+An bhfuil aon duine sa stáisiún
+anois?
+There's a person in the car
+Tá duine sa charr
+There's no one in the bus
+Níl aon duine sa bhus
+Is there anything in the box?
+
+An bhfuil aon rud sa bhosca?
+There's nothing in the car
+Níl aon rud sa charr
+look!
+féach!
+Seán is at home
+Tá Seán sa bhaile
+good day (to more than one
+person)
+
+Dia daoibh!
+
+children (said when addressing
+them)
+
+a leanaí
+
+Oh look, the train is in the station
+Ó féach, tá an traein sa stáisiún
+Oh yes, but where's daddy?
+Ó tá, ach cá bhfuil daidí?
+Look, there he is!
+Féach, tá sé ansin!
+Good day children. Where's
+mammy with the car?
+
+Dia daoibh, a leanaí. Cá bhfuil
+mamaí agus an carr?
+Look, there she is, in the station
+Féach, tá sí ansin, sa stáisiún
+Oh yes, all right
+Ó tá, maith go leor
+
+# ** Ceacht 9 **
+
+at
+ag
+at the door
+ag an doras
+at the fire
+ag an tine
+at the house
+ag an teach
+at the shop
+ag an siopa
+at the school
+ag an scoil
+at the chapel
+ag an séipéal
+the guard
+an garda
+the teacher
+an múinteoir
+The guard is at the door
+Tá an garda ag an doras
+The guard is at the house
+Tá an garda ag an teach
+The guard is at the school
+Tá an garda ag an scoil
+The guard is at the fire
+Tá an garda ag an tine
+The guard is at the shop
+Tá an garda ag an siopa
+The guard is at the chapel
+Tá an garda ag an séipéal
+The sick boy is at the fire
+Tá an buachaill tinn ag an tine
+Is the thin girl at the shop?
+An bhfuil an cailín tanaí ag an siopa?
+The teacher isn't at the school
+Níl an múinteoir ag an scoil
+There's no one at the door
+Níl aon duine ag an doras
+Is that thing at the house?
+An bhfuil an rud sin ag an teach?
+That woman is at the chapel
+Tá an bhean sin ag an séipéal
+self
+féin
+but, except
+ach
+except yourself
+ach tú féin
+
+she (emphatic)
+sise
+other
+eile
+Good day, Seán, where is
+mammy?
+
+Dia duit, a Sheáin, cá bhfuil mamaí?
+
+She's up at the chapel
+Tá sí thuas ag an séipéal
+And where's Máire?
+Agus cá bhfuil Máire?
+She's out also; she's down at the
+shop
+
+Tá sí amuigh freisin; tá sí thíos ag
+an siopa
+There's no one at home except
+yourself?
+
+Níl aon duine sa bhaile ach tú féin?
+
+There's no one else here
+Níl aon duine eile ann
+
+# ** Ceacht 10 **
+
+her
+a
+her breakfast
+a bricfeasta
+at her meal
+ag a béile
+at her breakfast
+ag a bricfeasta
+at her lunch
+ag a lón
+at her dinner
+ag a dinnéar
+at her tea
+ag a tae
+at her supper
+ag a suipéar
+the child
+an leanbh
+the children
+na leanaí
+She is at her meal
+Tá sí ag a béile
+She is at her lunch
+Tá sí ag a lón
+She's at her tea
+Tá sí ag a tae
+She's at her breakfast
+Tá sí ag a bricfeasta
+
+She's at her dinner
+Tá sí ag a dinnéar
+She's at her supper
+Tá sí ag a suipéar
+Are the children at the shop now?
+An bhfuil na leanaí ag an siopa
+anois?
+There's no one at the house
+Níl aon duine ag an teach
+I'm at the door
+Tá mé ag an doras
+Is the girl at her tea?
+An bhfuil an cailín ag a tae?
+The teacher is at her supper
+Tá an múinteoir ag a suipéar
+The children are not at the station
+Níl na leanaí ag an stáisiún
+their
+a
+their lunch
+a lón
+all
+go léir
+yet
+fós
+Where are the other children
+Seán?
+
+Cá bhfuil na leanaí eile, a Sheáin?
+
+They are all in the school. They're
+at their lunch
+
+Tá siad go léir sa scoil. Tá siad ag a
+lón
+And where is the teacher?
+Agus cá bhfuil an múinteoir?
+She's in the house. She's at her
+dinner
+
+Tá sise sa teach. Tá sí ag a dinnéar
+
+Is Máire at her lunch still?
+An bhfuil Máire ag a lón fós?
+Yes. She's in the school
+Tá. Tá sí istigh sa scoil
+
+# ** Ceacht 11 **
+
+who?
+cé?
+who is?
+cé atá?
+Who's there?
+Cé atá ann?
+
+Who is up?
+Cé atá thuas?
+Who is at the house?
+Cé atá ag an teach?
+Who's in?
+Cé atá istigh?
+Who's ill?
+Cé atá tinn?
+Who's home?
+Cé atá sa bhaile?
+Who is in the car?
+Cé atá sa charr?
+Who is at the fire?
+Cé atá ag an tine?
+Who is upstairs?
+Cé atá thuas an staighre?
+Who is cold now?
+Cé atá fuar anois?
+Who is outside there?
+Cé atá amuigh ansin?
+Who is there at the door?
+Cé atá ansin ag an doras?
+with
+le
+with Brídín
+le Brídín
+in with you
+isteach leat
+crying
+an caoineadh
+so, therefore
+mar sin
+Where are you Seán?
+Cá bhfuil tú, a Sheáin?
+I'm here at the door
+Tá mé anseo ag an doras
+Who’s in with Brídín?
+Cé atá istigh le Brídín?
+There's no one in now
+Níl aon duine istigh anois
+
+In with you so; she's crying
+Isteach leat, mar sin; tá sí ag
+caoineadh
+
+# ** Ceacht 12 **
+
+on
+ar
+the table
+an bord
+on the table
+ar an mbord
+the bread
+an t-arán
+the butter
+an t-im
+the water
+an t-uisce
+the milk
+an bainne
+the tea
+an tae
+the sugar
+an siúcra
+The bread is on the table
+Tá an t-arán ar an mbord
+The water is on the table
+Tá an uisce ar an mbord
+The tea is on the table
+Tá an tae ar an mbord
+
+The butter is on the table
+Tá an t-im ar an mbord
+The milk is on the table
+Tá an bainne ar an mbord
+The sugar is on the table
+Tá an siúcra ar an mbord
+Is the milk on the table yet?
+An bhfuil an bainne ar an mbord
+fós?
+There's no bread on the table now
+Níl aon arán ar an mbord anois
+They're on the table, look
+Tá siad ar an mbord, féach
+That dirty thing is on the box
+Tá an rud salach sin ar an mbosca
+There's no one on the bus
+Níl aon duine ar an mbus
+Who's on the stairs now?
+Cé atá ar an staighre anois?
+every
+gach
+everything
+gach rud
+
+a jug
+crúiscín
+in the jug
+sa chrúiscín
+I don't know
+Níl a fhios agam
+
+certainly
+cinnte
+a plate
+pláta
+on the plate
+ar an bpláta
+mammy (said when addressing
+her)
+
+a mhamaí
+
+Is everything on the table now,
+mammy?
+
+An bhfuil gach rud ar an mbord
+anois, a mhamaí?
+I don't know. Is there milk in the
+jug?
+
+Níl a fhios agam. An bhfuil bainne sa
+chrúiscín?
+Yes, and there's bread on the plate
+Tá, agus tá arán ar an bpláta
+Is the butter there?
+An bhfuil an t-im ann?
+Yes, certainly, it's on the plate
+Tá, cinnte, tá sé ar an bpláta
+You're very good. Yes, everything
+is on the table now
+
+Tá tú go han-mhaith. Is ea, tá gach
+rud ar an mbord anois
+
+# ** Ceacht 13 **
+
+isn't? aren't?
+nach bhfuil?
+isn't he?
+nach bhfuil sé?
+aren't they?
+nach bhfuil siad?
+on the street
+ar an tsráid
+on the road
+ar an mbóthar
+on the bus
+ar an mbus
+on the lorry
+ar an leoraí
+on the train
+ar an traein
+
+on the aeroplane
+ar an eitleán
+Isn't he on the street?
+Nach bhfuil sé ar an tsráid?
+Isn't he on the bus?
+Nach bhfuil sé ar an mbus?
+Isn't he on the train?
+Nach bhfuil sé ar an traein?
+Isn't he on the road?
+Nach bhfuil sé ar an mbóthar?
+Isn't he on the aeroplane?
+Nach bhfuil sé ar an eitleán?
+Isn't daddy on the train?
+Nach bhfuil daidí ar an traein?
+No, he's on the bus
+Níl, tá sé ar an mbus
+Isn't the bread on the table?
+Nach bhfuil an t-arán ar an mbord?
+No, it's in the box
+Níl, tá sé sa bhosca
+No, it's in the box
+An bhfuil sí ag a dinneár?
+She is at her dinner
+Tá sí ag a dinneár
+it
+é
+I see it
+feicim é
+I don't see it
+ní fheicim é
+thank you
+go raibh maith agat
+the paper
+an páipéar
+Is the paper here mammy?
+An bhfuil an páipéar anseo, a
+mhamaí?
+Isn't it there on the table?
+Nach bhfuil sé ansin ar an mbord?
+It's not here, I don't see it
+Níl sé anseo, ní fheicim é
+Look, it's there, on the table at the
+door
+
+Féach, tá sé ansin, ar an mbord ag
+an doras
+Oh yes, I see it now. Thanks
+Ó tá, feicim é anois. Go raibh maith
+agat
+
+# ** Ceacht 14 **
+
+she, it
+sí
+she is, it is
+tá sí
+she is not
+níl sí
+is she?
+an bhfuil sí?
+isn't she?
+nach bhfuil sí?
+coming
+ag teacht
+dancing
+ag damsha
+talking
+ag caint
+listening
+ag éisteacht
+working
+ag obair
+learning
+ag foghlaim
+She is coming
+Tá sí ag teacht
+She is talking
+Tá sí ag caint
+She is working
+Tá sí ag obair
+She is dancing
+Tá sí ag damsha
+She is listening
+Tá sí ag éisteacht
+She is learning
+Tá sí ag foghlaim
+Who is coming?
+Cé atá ag teacht?
+No one is listening
+Níl aon duine ag éisteacht
+Aren't they working?
+Nach bhfuil siad ag obair?
+Seán is learning
+Tá Seán ag foghlaim
+Are you talking?
+An bhfuil tú ag caint?
+The fat girl is dancing
+Tá an cailín ramhar ag damsha
+why?
+cén fáth?
+
+yet
+fós
+learning to dance
+ag foghlaim damsha
+right
+ceart
+right enough
+ceart go leor
+Good day mammy
+Dia duit, a mhamaí
+Good day Seán. Is Máire coming?
+Dia's Muire duit, a Sheáin. An bhfuil
+Máire ag teacht?
+She's not coming yet, she's in the
+school
+
+Níl sí ag teacht fós, tá sí sa scoil
+
+Why?
+Cén fáth?
+They are learning to dance
+Tá siad ag foghlaim damsha
+Oh indeed! right enough
+Oh maise! ceart go leor
+
+# ** Ceacht 15 **
+
+is he?
+an bhfuil sé?
+isn't he?
+nach bhfuil sé?
+where is he?
+cá bhfuil sé?
+the knife
+an scian
+the fork
+an forc
+the spoon
+an spúnóg
+the plate
+an pláta
+the cup
+an cupán
+the saucer
+an fochupán
+Where is the knife?
+Cá bhfuil an scian?
+Where is the fork?
+Cá bhfuil an forc?
+Where is the spoon?
+Cá bhfuil an spúnóg?
+
+Where is the plate?
+Cá bhfuil an pláta?
+Where is the cup?
+Cá bhfuil an cupán?
+Where is the saucer?
+Cá bhfuil an fochupán?
+Is the knife on the table?
+An bhfuil an scian ar an mbord?
+Isn't there a clean fork in the box?
+Nach bhfuil forc glan sa bhosca?
+There's a dirty cup and saucer on
+the table
+
+Tá cupán agus fochupán salach ar
+an mbord
+Is there a spoon in the sugar?
+An bhfuil spúnóg sa siúcra?
+There's no tea in that cup
+Níl aon tae sa chupán sin
+Isn't there milk in that tea?
+Nach bhfuil bainne ar an tae sin?
+that
+sin
+in the cup
+sa chupán
+
+I beg your pardon
+gabh mo leithscéal
+good girl
+maith an cailín
+good boy
+maith an buachaill
+Look Seán, the spoon is in the cup
+Féach a Sheáin, tá an spúnóg sa
+cupán
+Oh it is, I beg your pardon
+Ó tá, gabh mo leithscéal
+Good boy
+Maith an buachaill
+Amn't I good also, mammy?
+Nach bhfuil mise go maith freisin, a
+mhamaí?
+
+You're wonderful, but where's that
+knife?
+
+Tá tú go hiontach, ach cá bhfuil an
+scian sin?
+Oh, it's on the table. Now isn't it
+right?
+
+Ó tá sí ar an mbord. Anois nach
+bhfuil sí ceart?
+Yes, Good girl, Máire
+Tá. Maith an cailín, a Mháire
+
+# ** Ceacht 16 **
+
+was, were
+bhí
+he was
+bhí sé
+they were
+bhí siad
+eating
+ag ithe
+
+drinking
+ag ól
+going off
+ag imeacht
+waiting
+ag fanacht
+running
+ag rith
+playing
+ag imirt
+He was eating
+Bhí sé ag ithe
+He was drinking
+Bhí sé ag ól
+He was going off
+Bhí sé ag imeacht
+He was staying
+Bhí sé ag fanacht
+He was running
+Bhí sé ag rith
+He was playing
+Bhí sé ag imirt
+They were drinking the tea
+Bhí siad ag ól an tae
+You were running on the dirty road
+Bhí tú ag rith ar an mbóthar salach
+You were eating sugar?
+Bhí tú ag ithe siúcra?
+Who was working here?
+Cé a bhí ag obair anseo?
+The teacher was listening
+Bhí an múinteoir ag éisteacht
+Máire was learning at home
+Bhí Máire ag foghlaim sa bhaile
+here!
+seo!
+ready
+
+réidh
+
+after me
+i mo dhiaidh
+
+probably
+is dócha
+you're welcome
+fáilte romhat
+You are welcome Máire. Seán isn't
+here yet
+
+Fáilte romhat, a Mháire. Níl Seán
+anseo fós
+He is coming, right enough
+Tá sé ag teacht, ceart go leor
+He's playing, probably
+Tá sé ag imirt, is dócha
+He's not, because he was running
+after me
+
+Níl, mar bhí sé ag rith i mo dhiaidh
+
+I see him coming now
+Feicim ag teacht anois é
+Good. Here, dinner's ready
+Go maith. Seo, tá an dinnéar réidh
+Thank you mammy
+Go raibh maith agat, a mhamaí
+
+# ** Ceacht 17 **
+
+was not, were not
+ní raibh
+he wasn't
+ní raibh sé
+they weren't
+ní raibh siad
+the (plural)
+na
+the boys
+na buachaillí
+the girls
+na cailíní
+the children
+na leanaí
+na gardaí
+the guards
+the teachers
+na múinteoirí
+the things
+na rudaí
+those things
+na rudaí sin
+The boys were on the road
+Bhí na buachaillí ar an mbóthar
+
+The girls were not at home
+Ní raibh na cailíní sa bhaile
+The guards were not at the house
+Ní raibh na gardaí ag an teach
+Weren't the teachers in the school?
+Nach raibh na múinteoirí sa scoil?
+Are those things in the box?
+An bhfuil na rudaí sin sa bhosca?
+with
+leis
+at school
+ar scoil
+in the school
+
+sa scoil
+
+today
+inniu
+yesterday
+inné
+bold
+dána
+a bold boy
+buachaill dána
+speaking to
+ag caint le
+daddy (said when addressing him)
+a dhaidí
+The guards were in the school
+today, daddy
+
+Bhí na gardaí sa scoil inniu, a dhaidí
+
+They weren't! Why?
+Ní raibh siad! Cén fáth?
+I don't know, but they were
+speaking to the teachers, and to a
+boy also
+
+Níl a fhios agam, ach bhí siad ag
+caint leis na múinteoirí, agus le
+buachaill freisin
+A bold boy, I suppose?
+Buachaill dána, is dócha?
+He wasn't at school yesterday
+Ní raibh sé ar scoil inné
+Ah! That's it, he wasn't at school.
+He was bold
+
+Á-á! Sin é, ní raibh sé ar scoil inné.
+Bhí sé dána
+
+# ** Ceacht 18 **
+
+in
+i
+in
+was he, it?
+an raibh sé?
+were they?
+an raibh siad?
+in a bus
+i mbus
+in a train
+i dtraein
+in a boat
+i mbád
+in a ship
+i long
+in an aeroplane
+in eitleán
+in a car
+i gcarr
+ever, never
+riamh
+last night
+aréir
+Was he ever in a ship?
+An raibh sé i long riamh?
+Was he ever in an aeroplane?
+An raibh sé in eitleán riamh?
+Were they in a bus on the road?
+An raibh siad i mbus ar an mbóthar?
+The priest was in a car
+Bhí an sagart i gcarr
+Those girls were never in a train
+
+Ní raibh na cailíní sin i dtraein riamh
+
+Were the children at the chapel?
+An raibh na leanaí ag an séipéal?
+They were at school, I suppose?
+Bhí siad ar scoil, is dócha?
+Were you dancing last night?
+An raibh tú ag damhsa aréir?
+surely, certainly
+cinnte
+a couple
+cúpla
+a couple of others
+cúpla duine eile
+any other person
+aon duine eile
+
+because
+mar
+also
+freisin
+here's the bread
+seo an t-arán
+Here's the bread mammy
+Seo an t-arán, a mhamaí
+Thank you. Was Cáit in the shop?
+Go raibh maith agat. An raibh Cáit
+sa siopa?
+She was indeed
+Bhí, cinnte
+
+Was there anyone else there?
+An raibh aon duine eile ann?
+Máire was working in the shop
+also, and there were a couple of
+other people there
+
+Bhí Máire ag obair sa siopa freisin,
+agus bhí cúpla duine eile ann
+
+Is Cáit all right again?
+An bhfuil Cáit go maith arís?
+She is, probably, because she was
+working
+
+Tá, is dócha, mar bhí sí ag obair
+
+# ** Ceacht 19 **
+
+there
+ann
+wasn't he?
+nach raibh sé?
+where was he?
+cá raibh sé?
+the cat
+an cat
+the dog
+an madra
+the cow
+an bhó
+the horse
+an capall
+the donkey
+an t-asal
+the sheep
+an chaora
+Wasn't the dog there?
+Nach raibh an madra ann?
+
+She was in another house
+Bhí sí i dteach eile
+Wasn't that weak sheep eating?
+
+Nach raibh an chaora lag sin ag
+ithe?
+Where was the horse working
+yesterday?
+
+Cá raibh an capall ag obair inné?
+
+The donkey was waiting at the
+door
+
+Bhí an t-asal ag fanacht ag an doras
+
+Wasn't the teacher coming in the
+car?
+
+Nach raibh an múinteoir ag teacht
+sa charr?
+Where was the cow today?
+Cá raibh an bhó inniu?
+very long
+an-fhada
+a long time
+i bhfad
+a couple of minutes
+cúpla nóiméad
+many people
+a lán duine
+waiting for you
+ag fanacht leat
+I knew (you) were
+Bhí a fhios agam go raibh
+playing
+ag súgradh
+You were very long, Máire. Where
+were you?
+
+Bhí tú i bhfad, a Mháire. Cá raibh
+tú?
+I was in the shop
+Bhí mé sa siopa
+I know, but you were very long
+Tá a fhios agam, ach bhí tú an-
+fhada
+There were many people there
+Bhí a lán daoine ann
+You were playing on the road
+probably
+
+Bhí tú ag súgradh ar an mbóthar, is
+dócha
+
+I was, for a few minutes
+Bhí, cúpla noiméad
+I knew you were. I was waiting for
+you
+
+Bhí a fhios agam go raibh. Bhí mise
+ag fanacht leat
+
+# ** Ceacht 20 **
+
+a clock
+clog
+what time is it?
+cén t-am é?
+one o'clock
+a haon a chlog
+one
+a haon
+two
+a dó
+three
+a trí
+four
+a ceathair
+five
+a cúig
+six
+a sé
+What time is it now Máire?
+Cén t-am é anois, a Mháire?
+It's not one o'clock yet
+Níl sé a haon a chlog fós
+What time was he here last night?
+Cén t-am a bhí sé anseo aréir?
+He was there at six o'clock
+Bhí sé ann ar a sé a chlog
+Wasn't he there at five?
+Nach raibh sé ann ar a cúig?
+Where were you at two o'clock
+today?
+
+Cá raibh tú ar a dó a chlog inniu?
+here you are
+seo duit
+many people
+mórán daoine
+full
+lán
+You're welcome Pádraig. You're
+late today
+
+Fáilte romhat, a Phádraig. Tá tú mall
+inniu
+Am I now? What time is it?
+An bhfuil anois? Cén t-am é?
+It's six o'clock
+Tá sé a sé a chlog
+The bus was slow, probably
+Bhí an bus mall, is dócha
+Were there many on it?
+An raibh mórán daoine ann?
+
+Yes, indeed. It was full
+Bhí, cinnte. Bhí sé lán
+Here's the tea, now
+Seo duit an tae, anois
+Thank you
+Go raibh maith agat
+
+# ** Ceacht 21 **
+
+how much?
+cá mhéad?
+a shilling
+scilling
+sixpence
+réal
+it costs a shilling
+tá scilling air
+it cost a shilling
+bhí scilling air
+a penny
+pingin
+two pennies
+dhá phingin
+three pennies
+trí phingin
+four pennies
+ceithre phingin
+five pennies
+cúig phingin
+six pennies
+sé phingin
+one shilling, two shillings..
+scilling, dhá scilling..
+punt, two punts..
+punt, dhá phunt...
+It was (cost) two punts
+Bhí dhá phunt air
+How much is butter today?
+Cá mhéad atá ar an im inniu?
+It costs five shillings now
+Tá cuig scilling air anois
+Does that cost six pounds?
+An bhfuil sé phunt air sin?
+No, it costs five pounds and five
+shillings
+
+Níl, tá cúig phunt agus cúig scilling
+air
+The tea cost four and six
+Bhí ceithre scilling agus réal ar an
+
+tae
+Didn't it cost sixpence mammy?
+Nach raibh réal air, a mhamaí
+that's all
+sin an méid
+anything else
+aon rud eile
+please
+más é do thoil é
+Good day Nora
+Dia duit a Nóra
+Good day. How much is butter
+today?
+
+Dia's Muire duit. Cá mhéad atá ar an
+im inniu?
+Four shillings and sixpence a
+pound
+
+Ceithre scilling agus sé phingin an
+punt
+Two pounds please
+Dhá phunt, más é do thoil é
+Anything else now?
+Aon rud eile anois?
+Four pounds of sugar also. That's
+all
+
+Ceithre phunt siúcra freisin. Sin an
+méid
+Thank you. Good-bye now
+Go raibh maith agat. Slán leat anois
+Good-bye
+Slán agat
+
+# ** Ceacht 22 **
+
+it
+é
+í
+is it a - ?
+an - é?
+a dress
+gúna
+a hat
+hata
+a coat
+cóta
+a stocking
+stoca
+a trousers
+bríste
+
+a cap
+caipín
+new
+nua
+Is that a new dress? It is
+An gúna nua é? Is ea
+Is that a good boy?
+An buachaill maith é sin?
+Is that a clean cup?
+An cupán glan é sin?
+Is it a slow train?
+An traein mhall í?
+Is she a new teacher?
+An múinteoir nua í sin?
+Is it a good day?
+An lá maith é?
+Is that hot water in the cup?
+An uisce te é sin sa chupán?
+nice
+deas
+beautiful
+go hálainn
+may you live to wear it!
+go maire tú é!
+You are beautiful today Cáit
+Tá tú go hálainn inniu, a Cháit
+Why, Nóra?
+Cén fáth, a Nóra?
+That nice dress. Is it a new dress?
+An gúna deas sin. An gúna nua é?
+No indeed, that's old now
+Ní hea, maise, tá sé sin sean anois
+And the hat, that's nice also
+Agus an hata, tá sé go deas freisin
+The hat is new all right
+Tá an hata nua, ceart go leor
+Well may you wear it, it is very
+nice
+
+Go maire tú é, tá sé go han-deas
+
+# ** Ceacht 23 **
+
+in
+isteach
+out
+amach
+home, homewards
+
+abhaile
+
+he went off
+d'imigh sé
+he came
+tháinig sé
+he ran
+rith sé
+he walked
+shiúil sé
+he leaped
+léim sé
+he fell
+thit sé
+He came in
+Tháinig sé isteach
+He went in
+D'imigh sé isteach
+He ran in
+Rith sé isteach
+He walked in
+Shiúil sé isteach
+He jumped in
+Léim sé isteach
+He fell in
+Thit sé isteach
+Daddy went out
+D'imigh daidí amach
+The children came home
+Tháinig na leanaí abhaile
+The dirty dog ran into the house
+Rith an madra salach isteach sa
+teach
+The man walked out here
+Shiúil an fear amach anseo
+I fell into water
+Thit mé isteach in uisce
+The cat leaped on the table
+Léim an cat ar an mbord
+since
+ó shin
+where?
+cén áit?
+to, until
+go dtí
+she (emphatic)
+sise
+either
+ach oiread
+is it?
+an ea?
+a couple of minutes since
+cúpla nóiméad ó shin
+
+Where's daddy?
+Cá bhfuil daidí?
+He went off a couple of minutes
+ago
+
+D'imigh sé amach cúpla nóiméad ó
+shin
+Where?
+Cén áit?
+I don't know. He's in the garden
+probably
+
+Níl a fhios agam. Tá sé sa ghairdín,
+is dócha
+Isn't Máire here either?
+Nach bhfuil Máire anseo ach oiread?
+She ran out also
+Rith sise amach freisin
+To daddy, is it?
+Go dtí daidí, an ea?
+Yes, probably
+Is ea, is dócha
+
+# ** Ceacht 24 **
+
+to negative a verb..
+níor
+he didn't go off
+níor imigh sé
+he didn't come
+níor tháinig sé
+he didn't run
+níor rith sé
+he didn't walk
+níor shiúil sé
+he didn't leap
+níor léim sé
+he didn't fall
+níor thit sé
+He didn't go in either
+Níor imigh sé isteach ach oiread
+He didn't come to school today
+Níor tháinig sé ar scoil inniu
+Seán didn't run to the shop
+Níor rith Seán go dtí an siopa
+She didn't walk home
+Níor shiúil sí abhaile
+The dog didn't jump into the clean
+water
+
+Níor léim an madra isteach san uisce
+glan
+The boy didn't fall on the road
+Níor thit an buachaill ar an mbóthar
+
+tonight
+anocht
+ill, sick
+tinn
+tired
+tuirseach
+early
+go luath
+to bed, to sleep
+chodladh
+he went off with himself
+d'imigh sé leis
+Seán didn't come home yet?
+Níor tháinig Seán abhaile fós?
+He did, but he went off to bed
+Tháinig, ach d'imigh sé leis a
+chodladh
+Is he sick?
+An bhfuil sé tinn?
+No, indeed, but he was tired
+Níl, maise, ach bhí sé tuirseach
+And where's Máire?
+Agus cá bhfuil Máire?
+She went to bed also
+D'imigh sise a chodladh freisin
+They all went off early tonight
+D'imigh siad go luath anocht
+
+# ** Ceacht 25 **
+
+what time did he come?
+cén t-am ar tháinig sé?
+he came at seven o'clock
+tháinig sé ar a seacht a chlog
+eight o'clock
+a hocht a chlog
+nine o'clock
+a naoi a chlog
+ten o'clock
+a deich a chlog
+eleven o'clock
+a haon déag a chlog
+twelve o'clock
+a dhó dhéag a chlog
+What time did you come home
+yesterday?
+
+Cén t-am ar tháinig tú abhaile inné?
+
+The girls came here at eight
+o'clock
+
+Tháinig na cailíní anseo ar a hocht a
+chlog
+He went off out at ten o'clock
+D'imigh sé amach ar a deich a chlog
+He was drinking at eleven o'clock
+Bhí sé ag ól ar a haon déag a chlog
+Were you waiting until seven
+o'clock?
+
+An raibh tú ag fanacht go dtí a
+seacht a chlog?
+last night
+aréir
+after
+tar éis
+early, fast
+luath
+nor
+ná
+(it) was not
+ní raibh
+Where were you last night, Seán?
+Cá raibh tú aréir, a Sheáin?
+Ah, I was out there
+Á, bhí mé amuigh ansin
+You were late coming in
+Bhí tú mall ag teacht isteach
+No, I came in after ten
+Ní raibh. Tháinig mé isteach tar éis a
+deich
+After ten! I went to bed at eleven
+Tar éis a deich! D'imigh mise a
+chodlagh ar a haon déag
+The clock was fast, I suppose
+Bhí an clog luath, is dócha
+It wasn't fast at all, indeed
+Ní raibh ná luath, maise
+
+# ** Ceacht 26 **
+
+asks a simple question
+ar
+asks a negative question
+nár
+did he go?
+ar imigh sé?
+did he come?
+ar tháinig sé?
+did he run?
+ar rith sé?
+
+didn't he walk?
+nár shiúil sé?
+didn't he jump?
+nár léim sé?
+didn't he fall?
+nár thit sé?
+Has he gone yet?
+Ar imigh sé fós?
+Is he walking yet?
+Ar shiúil sé fós?
+Didn't the boys go off home?
+Nár imigh na buachaillí abhaile?
+Did the girls come to school?
+Ar tháinig na cailíni ar scoil?
+They didn't run into the house
+Níor rith siad isteach sa teach
+The priest walked up the chapel
+Shiúil an sagart suas an séipéal
+Didn't the cat jump into that box?
+Nár léim an cat isteach sa bhosca
+sin?
+Did the cap fall into the water?
+Ar thit an caipín síos in uisce?
+if
+má
+God save all here!
+Dia anseo isteach!
+tonight
+anocht
+a pint
+pionta
+if you please, please
+más é do thoil é
+God save all here!
+Dia anseo isteach!
+God save you kindly, Pádraig
+Dia's Muire duit, a Phádraig
+Didn't Míchaél come yet?
+Nár tháinig Mícheál fós?
+No, isn't he late tonight?
+Níor tháinig; nach bhfuil sé mall
+anocht?
+Yes, indeed. Wasn't it a good day?
+Tá, cinnte. Nach raibh an lá go
+maith?
+It was beautiful, thank God
+Bhí sé go hálainn, buíochas le Dia
+A pint, please
+Pionta, más é do thoil é
+Right
+Ceart go leor
+
+# ** Ceacht 27 **
+
+the lesson
+an ceacht
+the lessons
+na ceachtanna
+the boy said
+dúirt an buachaill
+the boy did
+rinne an buachaill
+the boy got
+fuair an buachaill
+the teacher saw
+chonaic an múinteoir
+the teacher gave
+thug an múinteoir
+the teacher heard
+d'éist an múinteoir le
+The teacher gave the lessons and
+the boy did the lessons
+
+Thug an múinteoir na ceachtanna
+agus rinne an buachaill na
+ceachtanna
+The teacher listened to the lessons
+D'éist an múinteoir leis na
+ceachtanna
+Mammy made the tea at four
+o'clock
+
+Rinne mamaí an tae ar a ceathair a
+chlog
+The boys heard the teacher coming
+Chuala na buachaillí an múinteoir ag
+teacht
+I got the new coat yesterday
+Fuair mé an cóta nua inné
+The priest said that in the school
+Dúirt an sagart é sin sa scoil
+The guard saw Seán on the bicycle
+Chonaic an garda Seán ar an rothar
+The teacher gave five shillings
+Thug an múinteoir cúig scilling
+for you
+duit
+paper
+páipéar
+back
+ar ais
+long
+i bhfad
+ice-cream
+uachtar reoite
+here you are
+seo duit
+
+here it is
+seo duit é
+here are the six pennies
+seo duit na sé phingin
+I got the paper for you daddy.
+Here you are
+
+Fuair mé an páipéar duit, a dhaidí.
+Seo duit é
+You weren't long
+Ní raibh tú i bhfad
+I ran to the shop and back
+Rith mé go dtí an siopa agus ar ais
+You are a very good boy. You got
+an ice-cream, I suppose?
+
+Buachaill an-mhaith thú. Fuair tú
+uachtar reoite, is dócha?
+I did certainly. Here's your
+sixpence
+
+Fuair, cinnte. Seo duit na sé phingin
+
+Right. Thanks
+Ceart go leor. Go raibh maith agat
+Don't mention it
+Fáilte romhat
+
+# ** Ceacht 28 **
+
+(negatives a verb)
+ní       níor
+it
+é
+that
+é sin
+I didn't say
+ní dúirt mé
+I didn't do
+ní dhearna mé
+I didn't get
+ní bhfuair mé
+I didn't see
+ní fhaca mé
+I didn't give
+níor thug mé
+I didn't hear
+níor chuala mé
+I didn't say that
+Ní dúirt mé é sin
+I didn't get that
+Ní bhfuair mé é sin
+
+I didn't do that
+Ní dhearna mé é sin
+He didn't do that lesson yet
+Ní dhearna sé an ceacht sin fós
+
+Daddy heard you and Bríd talking
+Chuala daidí thusa agus Bríd ag
+caint
+The children got ice cream
+Fuair na leanaí uachtar reoite
+No one saw the guard coming
+Ní fhaca aon duine an garda ag
+teacht
+I gave only three shillings yet
+Níor thug mé ach trí scilling fós
+Tomás didn't say that lesson
+Ní dúirt Tomás an ceacht sin
+my
+mo
+your
+do             *(one person) *
+my pipe
+mo phíopa
+your pocket
+do phóca
+I (emphatic)
+mise
+there
+ansin
+in the hall
+sa halla
+No one saw my pipe?
+Ní fhaca aon duine mo phíopa?
+Isn't it in your pocket?
+Nach bhfuil sé in do phóca?
+No, indeed
+Níl, maise
+I saw it. It was on the table in the
+hall
+
+Chonaic mise é. Bhí sé ar an mbord
+sa halla
+Good boy Seán. Is it there now?
+Maith an buachaill, a Sheáin. An
+bhfuil sé ansin anois?
+It was still on the table. Here you
+are
+
+Bhí sé ar an mbord fós. Seo duit é
+
+Great! Thank you
+Go hiontach! Go raibh maith agat
+
+# ** Ceacht 29 **
+
+all
+go léir
+enough
+go leor
+all the lessons
+na ceachtanna go léir
+did X say?
+an ndúirt X?
+did X do?
+an ndearna X?
+did X get?
+an bhfuair X?
+did X see?
+an bhfaca X?
+did X give?
+ar thug X?
+did X hear / listen to?
+ar éist X le?
+share, portion, some
+cuid
+any
+aon chuid
+
+Did the boys say all the lessons?
+An ndúirt na buachaillí na
+ceachtanna go léir?
+Did the boys do all the lessons?
+An ndearna na buachaillí na
+ceachanna go léir?
+Did the boys get all the lessons?
+An bhfuair na buachaillí na
+ceachanna go léir?
+Did the teacher see all the
+lessons?
+
+An bhfaca an múinteoir na
+ceachanna go léir?
+Did the teacher give all the
+lessons?
+
+Ar thug an múinteoir na ceachanna
+go léir?
+Did the teacher hear all the
+lessons?
+
+Ar éist an múinteoir na ceachanna
+go léir?
+Did you say that to daddy?
+An ndúirt tú é sin le daidí?
+Did anyone see the dog tonight?
+An bhfaca aon duine an madra
+anocht?
+Did you make the tea yet, Máire?
+An ndearna tú an tae fós, a Mháire?
+
+He didn't give any yet
+Níor thug sé aon chuid fós
+I got the whole thing in the garden
+Fuair mé an rud go léir sa ghairdín
+Did you hear the car coming?
+Ar chuala tú an carr ag teacht?
+some
+éigin
+some person, someone
+duine éigin
+last night
+aréir
+this morning
+ar maidin
+above
+thuas
+the storm
+an stoirm
+harm
+dochar
+a tree
+crann
+with me
+liom
+
+he told me
+dúirt sé liom
+Good day Cáit. Did you hear the
+storm last night?
+
+Dia duit, a Cháit. Ar chuala tú an
+stoirm aréir?
+No, I went to bed early
+Níor chuala, d'imigh mé a chodladh
+go luath
+It was very bad
+Bhí sé go han-dona
+Did it do any harm up there?
+An ndearna sé aon dochar thuas
+ansin?
+No, thank God, but a tree fell on
+the road at the chapel
+
+Ní dhearna, buíochas le Dia, ach thit
+crann ar an mbóthar ag an séipéal
+I saw that. I was up there this
+morning
+
+Chonaic mé sin. Bhí mé thuas ansin
+ar maidin
+I didn't see it myself, but someone
+told me about it
+
+Ní fhaca mé féin é, ach dúirt duine
+éigin liom é
+
+# ** Ceacht 30 **
+
+on it, for it
+air
+how much did you give for it?
+cá mhéad a thug tú air?
+I gave sevenpence for it
+thug mé seacht bpingin air
+sevenpence
+seacht bpingin
+eightpence
+ocht bpingin
+ninepence
+naoi bpingin
+tenpence
+deich bpingin
+elevenpence
+aon phingin déag
+twelvepence
+dhá phingin déag
+seven pounds
+seacht bpunt
+eleven pounds
+aon phunt déag
+
+seven shillings
+seacht scilling
+eleven shillings
+aon scilling déag
+The man got £10 for the bicycle
+Fuair an fear deich bpunt ar an
+rothar
+I gave only £7 for it
+Níor thug mé ach seacht bpunt air
+They didn't get the nine pounds
+yet
+
+Ní bhfuair siad na naoi bpunt fós
+
+Where did the children get the
+tenpence?
+
+Cá bhfuair na leanaí na deich
+bpingin?
+She said it cost twelve pounds
+Dúirt sí go raibh dhá phunt déag air
+I got eight shillings in that pocket
+
+Fuair mé ocht scilling sa phóca sin
+
+I think
+sílim
+altogether
+ar fad
+it is
+atá ann
+
+colour
+dath
+indeed
+go deimhin
+cheap
+saor
+white
+bán
+bawneen
+báinín
+a bawneen coat
+cóta báinín
+Máirín got a new coat
+Fuair Máirín cóta nua
+Did she now? How much did she
+pay for it?
+
+An bhfuair anois? Cá mhéad a thug
+sí air?
+Ten pounds, I think. It was cheap
+enough
+
+Deich bpunt, sílim. Bhí sé saor go
+leor
+It was indeed. This one cost twelve
+pounds
+
+Bhí go deimhin. Dhá phunt déag a
+bhí ar an gcóta seo
+
+I saw it yesterday. It's very nice
+indeed
+
+Chonaic mé inné é. Tá sé go han-
+deas ar fad
+
+What colour is it?
+Cén dath atá air?
+White. It is a bawneen coat
+Dath bán. Cóta báinín atá ann
+
+# ** Ceacht 31 **
+
+did they go?
+an ndeachaigh siad?
+they didn't go
+ní dheachaigh siad
+they went
+chuaigh siad
+up
+suas
+down
+síos
+out
+amach
+in
+isteach
+
+to school
+ar scoil
+to Mass
+ar Aifreann
+They went up
+Chuaigh siad suas
+They went down
+Chuaigh siad síos
+
+They went out
+
+Chuaigh siad amach
+
+They went in
+Chuaigh siad isteach
+They went to school
+Chuaigh siad ar scoil
+They went to Mass
+Chuaigh siad ar Aifreann
+Did daddy go to Mass yet?
+An ndeachaigh daidí ar Aifreann fós?
+I saw Páid going to school
+Chonaic mé Páid ag dul ar scoil
+The boys went home at six o'clock
+Chuaigh na buachaillí abhaile ar a sé
+a chlog
+No one went in yet
+Ní dheachaigh aon duine isteach fós
+Did the dog go out on the road?
+An ndeachaigh an madra amach ar
+an mbóthar?
+The boys went down the garden
+Chuaigh na buachaillí síos an gairdín
+here !
+seo !
+a stamp
+stampa
+a fivepenny stamp
+stampa chúig phingin
+the postman
+fear an phoist
+here's ten shillings
+seo deich scilling
+change
+briseadh
+ninepence change
+naoi bpingin de bhriseadh
+Did the postman go yet?
+Ar imigh fear an phoist fós?
+No, it's not four o'clock yet
+Níor imigh, níl sé a ceathair a chlog
+fós
+Good, three fivepenny stamps
+Go maith, trí stampa chúig phingin,
+
+please
+más é do thoil é
+One and threepence please
+Scilling agus trí phingin, más é do
+thoil é
+
+Here are ten shillings
+Seo deich scilling
+Eight and ninepence change
+Ocht scilling agus naoi bpingin de
+bhriseadh
+Thank you
+Go raibh maith agat
+
+# ** Ceacht 32 **
+
+did you put?
+ar chuir tú?
+I put
+chuir mé
+I didn't put
+níor chuir mé
+the milk
+an bainne
+the sugar
+an siúcra
+the jam
+an tsubh
+the bread
+an t-arán
+the butter
+an t-im
+the water
+an t-uisce
+Did you put the milk on the box?
+Ar chuir tú an bainne ar an mbosca?
+Did you put the sugar on the box?
+Ar chuir tú an siúcra ar an mbosca?
+
+Did you put the jam on the box?
+Ar chuir tú an tsubh ar an mbosca?
+Did you put the bread on the box?
+Ar chuir tú an t-arán ar an mbosca?
+Did you put the butter on the box?
+Ar chuir tú an t-im ar an mbosca?
+Did you put the water on the box?
+Ar chuir tú an t-uisce ar an mbosca?
+He didn't put in the bicycle
+Níor chuir sé isteach an rothar
+Did daddy put in the car?
+Ar chuir daidí isteach an carr?
+
+Mammy put the child up
+Chuir mamaí suas an leanbh
+She put everything in the car
+Chuir sí gach rud sa charr
+Did anyone put the cat out?
+Ar chuir aon duine amach an cat?
+You didn't put it in
+Níor chuir tú isteach é
+to the, for the
+don
+bedtime
+am codlata
+late enough
+mall go leor
+for the cat
+don chat
+up with you
+suas leat
+it's only ten o'clock
+níl sé ach a deich a chlog
+Bedtime now Máire!
+Am codlata anois, a Mháire!
+Ah, mammy, it's only ten yet
+Á, a mhamaí, níl sé ach a deich fós
+It's late enough. Did you put in
+your bicycle?
+
+Tá sé mall go leor. Ar chuir tú
+isteach do rothar?
+Yes, and the dog is in also
+Chuir, agus tá an madra istigh
+freisin
+Good girl. Did you give milk to the
+cat?
+
+Maith an cailín. Ar thug tú bainne
+don chat?
+
+I did, and then I put him out
+Thug, agus chuir mé amach ansin é
+
+You're very good altogether. Up
+with you now!
+
+Tá tú an-mhaith ar fad. Suas leat
+anois!
+
+# ** Ceacht 33 **
+
+on him
+air
+he put on (him)
+chuir sé air
+he threw on (him)
+chaith sé air
+he left on (him)
+d'fhág sé air
+
+his
+a
+his shirt
+a léine
+his stockings
+a stocaí
+his shoes
+a bhróga
+his trousers
+a bhríste
+his coat
+a chóta
+his cap
+a chaipín
+
+He put his shirt on
+Chuir sé air a léine
+He put his socks on
+Chuir sé air a stocaí
+He put his shoes on
+Chuir sé air a bhróga
+He put on his trousers
+Chuir sé air a bhríste
+He put on his coat
+Chuir sé air a chóta
+He put on his cap
+Chuir sé air a chaipín
+He left his cap on
+D'fhág sé air a chaipín
+Did Seán put on his overcoat?
+Ar chuir Seán air a chóta mór?
+Daddy didn't put on his good shirt
+Níor chuir daidí air a léine mhaith
+He threw on his shirt and trousers
+Chaith sé air a léine agus a bhríste
+He threw his boots in the hall
+Chaith sé a bhróga sa halla
+He didn't leave on his new shoes?
+Níor fhág sé air a bhróga nua?
+with
+le
+with, with him
+leis
+whose is? who owns?
+cé leis?
+(it is) Seán's
+le Seán
+I don't know
+níl a fhios agam
+anyway
+cibé ar bith
+
+Who owns this coat?
+Cé leis an cóta seo?
+Seán, he left it on the table
+Le Seán, d'fhág sé ar an mbord é
+And he has no coat on now?
+Agus nach bhfuil aon chóta air
+anois?
+
+He has, he put on his new coat
+Tá, chuir sé air a chóta nua
+And where did he go?
+Agus cá ndeachaigh sé?
+I don't know; he didn't say
+Níl a fhios agam; ní dúirt sé
+He didn't put up this coat anyway
+Níor chuir sé suas an cóta seo, cibé
+ar bith
+
+# **Ceacht 34 **
+
+I have X
+tá X agam
+I have no(t) X
+níl X agam
+money
+airgead
+a frock
+gúna
+a chair
+cathaoir
+tobacco
+tobac
+a cigarette
+toitín
+a match
+cipín
+I don't have money
+Níl airgead agam
+I don't have a dress
+Níl gúna agam
+I don't have a chair
+Níl cathaoir agam
+
+I don't have tobacco
+Níl tobac agam
+I don't have a cigarette
+Níl toitín agam
+I don't have a match
+Níl cipín agam
+I have a new frock
+Tá gúna nua agam
+
+I haven't a cigarette now
+Níl aon toitín agam anois
+I haven't new shoes yet
+Níl bróga nua agam fós
+I have £11 in the box
+Tá aon phunt déag agam sa bhosca
+I know
+Tá a fhios agam
+I don't know
+Níl a fhios agam
+some
+cuid
+I don't see
+ní fheicim
+some time ago
+tamall ó shin
+walking
+ag siúl
+one
+ceann
+I don't see Seán here. Where is
+he?
+
+Ní fheicim Seán anseo. Cá bhfuil sé?
+
+I don't know. He went out a while
+ago
+
+Níl a fhios agam. Chuaigh sé amach
+tamall ó shin
+On his bicycle, is it?
+Ar a rothar, an ea?
+No, he was walking
+Ní hea, bhí sé ag siúl
+I have no cigarettes
+Níl aon toitín agam
+I have some, here's one
+Tá cuid agamsa, seo duit ceann
+Thanks. That's fine
+Go raibh maith agat. Tá sé sin go
+breá
+
+# ** Ceacht 35 **
+
+did N give?
+ar thug N?
+N didn't give
+níor thug N
+N gave
+thug N
+eleven pounds
+aon phunt déag
+
+twelve pounds
+dhá phunt déag
+thirteen pounds
+trí phunt déag
+fourteen pounds
+ceithre phunt déag
+fifteen pounds
+cúig phunt déag
+sixteen pounds
+sé phunt déag
+eleven pence
+aon phingin déag
+eleven shillings
+aon scilling déag
+
+I only paid £11 for it
+Níor thug mé ach aon phunt déag
+air
+I only paid £12 for it
+Níor thug mé ach dhá phunt déag
+air
+I only paid £13 for it
+Níor thug mé ach trí phunt déag air
+I only paid £14 for it
+Níor thug mé ach ceithre phunt déag
+air
+I only paid £15 for it
+Níor thug mé ach cúig phunt déag
+air
+I only paid £16 for it
+Níor thug mé ach sé phunt déag air
+Seán gave £15 for his new coat
+Thug Seán cúig phunt déag ar a
+chóta nua
+Did you pay much for the dress?
+Ar thug tú mórán ar an ngúna?
+He got £14 for it
+Fuair sé ceithre phunt déag air
+They paid a lot of money for the
+house
+
+Thug siad airgead mór ar an teach
+
+Where did he get the thirteen
+shillings?
+
+Cá bhfuair sé na trí scilling déag?
+
+Did he put the £12 on the table?
+Ar chuir sé an dá phunt déag ar an
+mbord?
+on you
+ort
+
+for me
+dom
+for you
+duit
+exactly right
+díreach i gceart
+do you think so?
+an dóigh leat?
+Byrne's shop
+siopa Uí Bhroin
+too big
+rómhór
+That's a nice coat on you Cáit
+Cóta deas é sin ort, a Cháit
+Do you think so? I only paid £10
+for it
+
+An dóigh leat? Níor thug mé ach
+deich bpunt air
+
+Where did you get it?
+Cá bhfuair tú é?
+
+In Byrne's shop - a couple of days
+ago
+
+I siopa Ui Bhroin - cúpla lá ó shin
+
+It's a nice one, surely
+Ceann deas é go deimhin
+
+It's not too big for me?
+Níl sé rómhór dom?
+
+No, it's just right for you
+Níl, tá sé díreach i gceart duit
+
+# ** Ceacht 36 **
+
+I am able, I can
+is féidir liom
+I am not able, I cannot
+ní féidir liom
+to stay
+fanacht
+to go away
+imeacht
+to come
+teacht
+to drink
+ól
+to eat
+ithe
+
+to walk
+siúl
+
+I cannot stay
+Ní féidir liom fanacht
+I cannot go
+Ní féidir liom imeacht
+I cannot come
+Ní féidir liom teacht
+
+I cannot drink
+Ní féidir liom ól
+I cannot eat
+Ní féidir liom ithe
+I cannot walk
+Ní féidir liom siúl
+I cannot stay here now
+Ní féidir liom fanacht anseo anois
+I cannot go out there
+Ní féidir liom dul amach ansin
+I can walk down the road
+Is féidir liom siúl síos an bóthar
+I cannot play with Seán
+Ní féidir liom imirt le Seán
+I can run home
+Is féidir liom rith abhaile
+I cannot jump now
+Ni féidir liom léim anois
+what reason? why?
+cén fáth?
+tonight
+anocht
+today
+inniu
+what person? who?
+cén duine?
+a friend
+cara
+for a long time
+le fada
+that's a pity
+is trua sin
+an old friend
+seanchara
+do you know?
+an bhfuil a fhios agat?
+I don't see Mícheál here tonight
+Ní fheicim Mícheál anseo anocht
+I was speaking to him today. He
+can't come
+
+Bhí mé ag caint leis inniu. Ní féidir
+leis teacht
+Why?
+Cén fáth?
+
+Some friend of his is coming to the
+house tonight
+
+Tá cara éigin leis ag teacht go dtí an
+teach anocht
+
+Who, do you know?
+Cén duine, an bhfuil a fhios agat?
+
+Some old friend, he didn't see him
+for a long time
+
+Seanchara éigin, ní fhaca sé le fada
+é
+
+I understand; that's a pity
+Tuigim; is trua sin
+
+# ** Ceacht 37 **
+
+can you?
+an féidir leat?
+can't you?
+nach féidir leat?
+to say it
+é a rá
+to do it
+é a dhéanamh
+to get it
+é a fháil
+to see it
+é a fheiceáil
+to eat it
+é a ithe
+to drink it
+é a ól
+Can't you say it?
+Nach féidir leat é a rá?
+Can't you do it?
+Nach féidir leat é a dhéanamh?
+Can't you get it?
+Nach féidir leat é a fháil?
+
+Can't you see it?
+Nach féidir leat é a fheiceáil?
+Can't you eat it?
+Nach féidir leat é a ithe?
+Can't you drink it?
+Nach féidir leat é a ól?
+I can't get (find) the paper
+Ní féidir liom an páipéar a fháil
+You can make the tea
+Is féidir leat an tae a dhéanamh
+I can't get my hat
+Ní féidir liom mo hata a fháil
+
+Can't you drink milk?
+Nach féidir leat bainne a ól?
+Can you see anyone?
+An féidir leat aon duine a fheiceáil?
+You can eat that bread
+Is féidir leat an t-arán sin a ithe
+time, hour
+uair
+when? what time?
+cén uair?
+once, one time
+uair amháin
+much
+mórán
+how?
+cén chaoi?
+for a year past
+le bliain
+of course
+ar ndóigh
+Indeed Séamas, I don't know
+when I saw you last!
+
+Maise, a Shéamais, níl a fhios agam
+cén uair a chonaic mé thú!
+I wasn't out much for the last year
+Ní raibh mé amuigh mórán le bliain
+anois
+You weren't well of course. How
+are you now?
+
+Ní raibh tú go maith, ar ndóigh. Cén
+chaoi a bhfuil tú anois?
+I'm well now, thank God
+Tá mé go maith anois, buíochas le
+Dia
+I saw you at Mass once, but I
+wasn't talking to you
+
+Chonaic mé ar an Aifreann thú uair
+amháin, ach ní raibh mé ag caint
+leat
+
+Yes, I'm able to go to Mass now
+Is ea, is féidir liom dul ar an
+Aifreann anois
+
+That's good
+Is maith sin
+
+# ** Ceacht 38 **
+
+under
+faoi
+under the
+faoin
+the ball
+an liathróid
+the child
+an leanbh
+under the chair
+faoi gcathaoir
+under the dresser
+faoin drisiúr
+under the table
+faoin mbord
+under the stool
+faoin stól
+under the press
+faoin gcófra
+under the stairs
+faoin staighre
+he left
+d'fhág sé
+
+did you leave?
+ar fhág tú?
+The child left the ball under the
+chair
+
+D'fhág an leanbh an liathróid faoin
+gcathaoir
+The child left the ball under the
+table
+
+D'fhág an leanbh an liathróid faoin
+mbord
+The child left the ball under the
+press
+
+D'fhág an leanbh an liathróid faoin
+gcófra
+The child left the ball under the
+dresser
+
+D'fhág an leanbh an liathróid faoin
+drisiúr
+The child left the ball under the
+stool
+
+D'fhág an leanbh an liathróid faoin
+stól
+The child left the ball under the
+stairs
+
+D'fhág an leanbh an liathróid faoin
+staighre
+Isn't the white cat under the table?
+Nach bhfuil an cat bán faoin mbord?
+Did you leave the boots under the
+chair?
+
+Ar fhág tú na bróga faoin gcathaoir?
+
+He put the letter in under the door
+Chuir sé an litir isteach faoin doras
+Did the dog go in under the stairs?
+An ndeachaigh an madra isteach
+faoin staighre?
+There were three pennies under
+the table in the hall
+
+Bhí trí phingin faoin mbord sa halla
+
+yonder, over there
+thall
+a couple of minutes ago
+cúpla nóiméad ó shin
+in any place
+in aon áit
+I can't find my pipe anywhere.
+Ní féidir liom mo phíopa a fháil in
+aon áit.
+Do you know where it is?
+An bhfuil a fhios agat cá bhfuil sé?
+I saw it a few minutes ago
+Chonaic mise cúpla nóiméad ó shin
+é
+Where did you see it?
+Cá bhfaca tú é?
+It was there on the table under the
+paper
+
+Bhí sé ansin ar an mbord faoin
+bpáipéar
+It's not under the paper now
+Níl sé faoin bpáipéar anois
+
+Look, it's over on the stool under
+the cap
+
+Féach, tá sé thall ar an stól faoin
+gcaipín
+
+# ** Ceacht 39 **
+
+off, off him
+de
+he took off
+bhain sé de
+he threw off
+chaith sé de
+his shoes
+a bhróga
+his socks
+a stocaí
+his hat
+a hata
+his jacket
+a chasóg
+his overcoat
+a chóta mór
+his scarf
+a scairf
+did X take?
+ar bhain X?
+didn't X take?
+nár bhain X?
+
+X didn't take
+níor bhain X
+did X throw?
+ar chaith X?
+didn't X throw?
+nár chaith X?
+X didn't throw
+níor chaith X
+He took his shoes off
+Bhain sé de a bhróga
+He took his hat off
+Bhain sé de a hata
+He took off his jacket
+Bhain sé de a chasóg
+He took his socks off
+Bhain sé de a stocaí
+He took off his overcoat
+Bhain sé de a chóta mór
+He took off his scarf
+Bhain sé de a scairf
+Didn't the man take off his hat?
+Nár bhain an fear de a hata?
+Seán threw off his cap then
+Chaith Seán de a chaipín ansin
+No one took off his overcoat
+Níor bhain aon duine de a chóta mór
+
+The priest threw off his overcoat
+and scarf
+
+Chaith an sagart de a chóta mór
+agus a scairf
+He took off one shoe and put on
+another one
+
+Bhain sé de bróg amháin agus chuir
+sé air ceann eile
+that's good
+is maith sin
+off you
+díot
+drowned
+báite
+take off
+bain díot
+them
+iad
+on me
+orm
+
+what about?
+céard faoi?
+
+your jacket
+do chasóg
+
+sit
+suigh
+
+up to the fire
+chun na tine
+
+Welcome Pádraig. You're drowned
+wet
+
+Fáilte romhat, a Phádraig. Tá tú
+fliuch báite
+
+I am. These boots are wet anyway
+Tá. Tá na bróga seo fliuch, cibé ar
+bith
+
+Take them off you. And take off
+your socks too
+
+Bain díot iad. Agus bain díot do
+stocaí fresin
+
+Arrah, the socks are all right
+Ara, tá na stocaí ceart go leor
+
+What about your jacket
+Céard faoi do chasóg?
+
+That's dry. I had an overcoat on
+Tá sí sin tirim. Bhí cóta mór orm
+
+That's good. Sit up to the fire now
+Is maith sin. Suigh chun na tine
+anois
+
+# ** Ceacht 40 **
+
+to
+do
+to the
+don
+to Seán
+do Sheáin
+to the man
+don fhear
+to the boy
+don bhuachaill
+to him
+dó
+he gave the man a pound
+thug sé punt don fhear
+seventeen pounds
+seacht bpunt déag
+eighteen pounds
+ocht pbunt déag
+nineteen pounds
+naoi bpunt déag
+twenty pounds
+fiche punt
+
+thirty pounds
+tríocha punt
+fourty pounds
+daichead punt
+He gave him £17
+Thug sé seacht bpunt déag dó
+He gave him £18
+Thug sé ocht bpunt déag dó
+He gave him £19
+Thug sé naoi bpunt déag dó
+He gave him £20
+Thug sé fiche punt dó
+He gave him £30
+Thug sé tríocha punt dó
+He gave him £40
+Thug sé daichead punt dó
+I gave the shopkeeper £20
+Thug mé fiche punt don siopadóir
+I gave £18 for the bicycle
+Thug mé ocht bpunt déag ar an
+rothar
+How much did you give him?
+Cé mhéad a thug tú dó?
+How much did you pay for it?
+Cé mhéad a thug tú air?
+
+I gave the priest only 30/-
+Níor thug mé ach tríocha scilling don
+sagart
+Didn't you ever give the teacher
+that money?
+
+Nár thug tú an t-airgead sin don
+mhúinteoir riamh?
+he (emphatic)
+seisean
+a scooter
+scútar
+I bought
+cheannaigh mé
+dear
+daor
+cheap
+saor
+a friend of mine
+cara liom
+a week
+seachtain
+
+a couple of weeks
+cúpla seachtain
+
+well satisfied
+lánsásta
+
+I see you have a scooter now
+Pádraig
+
+Feicim go bhfuil scútar agat anois, a
+Phádraig
+
+Yes, I bought it a couple of weeks
+ago
+
+Tá, cheannaigh mé é cúpla
+seachtain ó shin
+
+A new one, is it?
+Ceann nua, an ea?
+
+No, a friend of mine had it, and he
+bought a new one
+
+Ní hea, bhí sé ag cara liom, agus
+cheannaigh seisean ceann nua
+
+Did you pay much for it?
+Ar thug tú mórán air?
+
+I gave my friend only £18, and he
+was well satisfied. It wasn't dear
+
+Níor thug mé ach £18 do mo chara,
+agus bhí sé lánsásta. Ní raibh sé
+daor
+
+That was cheap enough
+Bhí sé sin saor go leor
+
+# ** Ceacht 41 **
+
+Seán had X
+Bhí X ag Seán
+The man had X
+Bhí X ag an bhfear
+he had X
+bhí X aige
+they had X
+bhí X acu
+had you X?
+an raibh X agat?
+a brother
+deartháir
+a sister
+deirfiúr
+an uncle
+uncail
+an aunt
+aintín
+a son
+mac
+a daughter
+iníon
+
+He had a brother
+Bhí deartháir aige
+He had a sister
+Bhí deirfiúr aige
+He had an uncle
+Bhí uncail aige
+He had an aunt
+Bhí aintín aige
+He had a son
+Bhí mac aige
+He had a daughter
+Bhí iníon aige
+Haven't you a brother?
+Nach bhfuil aon deartháir agat?
+He had no son
+Ní raibh mac aige
+He has one sister, anyway
+Tá deirfiúr amháin aige, cibé ar bith
+Has Tomás a brother?
+An bhfuil deartháir ag Tomás?
+Hasn't your brother a son now?
+Nach bhfuil mac ag do dheartháir
+anois?
+They had a daughter
+Bhí iníon acu
+
+ever, never
+riamh
+I think
+is dóigh liom
+who is?
+cé hé?
+isn't it? / isn't he?
+nach é?
+some other time
+uair éigin eile
+I don't know him
+níl aithne agam air
+where is he from?
+cad as dó?
+holidays
+laethanta saoire
+Who's that fellow yonder with
+Mícheál?
+
+Cé hé an duine sin thall le Mícheál?
+
+His uncle I think, isn't it?
+A uncail, is dóigh liom, nach é?
+
+I don't know. I don't know him
+Níl a fhios agam, níl aithne agam air
+
+That's he indeed. I saw him here
+some other time
+
+Sin é go deimhin. Chonaic mé anseo
+uair éigen eile é
+
+I never saw him before. Where's
+he from?
+
+Ní fhaca mise riamh é. Cad as dó?
+
+Dublin, I think. He's on holidays,
+probably
+
+Baile Átha Cliath, sílim. Tá sé ar a
+laethenta saoire is dócha
+
+Oh, I understand
+Ó, tuigim
+
+# ** Ceacht 42 **
+
+to be
+bheith
+would you like?
+ar mhaith leat?
+I would like
+ba mhaith liom
+I wouldn't like
+níor mhaith liom
+to be a doctor
+bheith i mo, do dhochtúir
+to be a nurse
+bheith i mo, do bhanaltra
+to be a dentist
+bheith i m', d' fhiaclóir
+to be a shopkeeper
+bheith i mo, do shiopadóir
+to be a teacher
+bheith i mo, do mhúinteoir
+to be a farmer
+bheith i m', d' fheirmeoir
+I would like to be a doctor
+Ba mhaith liom a bheith i mo
+dhochtúir
+
+I would like to be a nurse
+Ba mhaith liom a bheith i mo
+bhanaltra
+I would like to be a dentist
+Ba mhaith liom a bheith i m'fhiaclóir
+I would like to be a teacher
+Ba mhaith liom a bheith i mo
+mhúinteoir
+I would like to be a shopkeeper
+Ba mhaith liom a bheith i mo
+shiopadóir
+I would like to be a farmer
+Ba mhaith liom a bheith i
+m'fheirmeoir
+Would you like to be a big man?
+Ar mhaith leat a bheith i d'fhear
+mór?
+I wouldn't like to be a shopkeeper
+Níor mhaith liom a bheith i mo
+shiopadóir
+You'd like to be a dentist!
+Ba mhaith leat a bheith i d'fhiaclóir
+I would like to be at the pictures
+Ba mhaith liom a bheith ag na
+pictiúir
+
+I shouldn't like to be there now
+Níor mhaith liom a bheith ansin
+anois
+Would you like to be out there?
+Ar mhaith leat a bheith amuigh
+ansin?
+perhaps
+b'fhéidir
+tonight
+anocht
+to go there
+dul ann
+work
+obair
+a picture
+pictiúr
+the pictures
+na pictiúir
+going on, in progress
+ar siúl
+because
+mar
+night
+oíche
+I must
+caithfidh mé
+
+another night
+oíche eile
+
+I'd like to be at the pictures
+tonight
+
+Ba mhaith liom a bheith ag na
+pictiúir anocht
+
+Why?
+Cén fáth?
+
+Because there's a very good
+picture on
+
+Mar tá pictiúr an-mhaith ar siúl
+
+Well, can't you go to it?
+Agus nach féidir leat dul ann?
+
+I can't. I must do some work
+Ní féidir liom. Caithfidh mé obair a
+dhéanamh
+
+Some other night perhaps?
+Oíche eile, b'fhéidir?
+
+Perhaps, if I have time
+B'fhéidir, ma tá an t-am agam
+
+# ** Ceacht 43 **
+
+big
+mór
+small
+beag
+the big plate
+an pláta mór
+the small plate
+an pláta beag
+the big teapot
+an taephota mór
+the small teapot
+an taephota beag
+the big jug
+an crúiscín mór
+the small jug
+an crúiscín beag
+a piece
+píosa
+(don't) give me
+(ná) tabhair dom
+(don't) show me
+(ná) taispeáin dom
+
+(don't) get me
+(ná) faigh dom
+Give me the big plate
+Tabhair dom an pláta mór
+Give me the small plate
+Tabhair dom an pláta beag
+Give me the big teapot
+Tabhair dom an taephota mór
+Give me the small teapot
+Tabhair dom an taephota beag
+Give me the big jug
+Tabhair dom an crúiscín mór
+Give me the small jug
+Tabhair dom an crúiscín beag
+Don't give me the big piece
+Ná tabhair dom an píosa mór
+Show me the small one
+Taispeáin dom an ceann beag
+Give me that little thing over there
+Tabhair dom an rud beag sin thall
+Get that small frock for me
+Faigh dom an gúna beag sin
+Don't get a big box now
+Ná faigh bosca mór anois
+I would like that big apple
+Ba mhaith liom an t-úll mór sin
+
+I like
+is maith liom
+do you like?
+an maith leat?
+would you like?
+ar mhaith leat?
+you to have
+a bheith agat
+a cake
+cáca
+as good, as well
+chomh maith
+
+too good
+rómhaith
+Would you like some of this cake
+Cáit?
+
+Ar mhaith leat cuid den cháca seo, a
+Cháit?
+
+Well, give me a small piece please
+Sea, tabhair dom píosa beag, más é
+do thoil é
+
+You might as well have a large
+piece. Here you are
+
+Tá sé chomh maith agat píosa mór a
+bheith agat. Seo duit
+
+Thanks. Did you make it yourself?
+Go raibh maith agat. An ndearna tú
+féin é?
+
+I did. Do you like it?
+Rinne. An maith leat é?
+
+I do indeed. It's very nice
+Is maith liom go deimhin. Tá sé an-
+deas
+
+Well, I don't know. It's not too
+good at all
+
+Maise, níl a fhios agam. Níl sé
+rómhaith ar chor ar bith
+
+# ** Ceacht 44 **
+
+to
+go dtí
+to the school
+go dtí an scoil
+to the house
+go dtí an teach
+to the chapel
+go dtí an séipéal
+to the town
+go dtí an baile mór
+to the station
+go dtí an stáisiún
+to the shop
+go dtí an siopa
+to school
+ar scoil
+to Mass
+ar Aifreann
+did they go?
+an ndeachaigh siad?
+didn't they go?
+nach ndeachaigh siad?
+
+they went
+chuaigh siad
+they didn't go
+ní dheachaigh siad
+Didn't they go to the school?
+They did
+
+Nach ndeachaigh siad go dtí an
+scoil? Chuaigh
+Didn't they go to the chapel?
+They did
+
+Nach ndeachaigh siad go dtí an
+séipéal? Chuaigh
+Didn't they go to the town?
+They did
+
+Nach ndeachaigh siad go dtí an baile
+mór? Chuaigh
+Didn't they go to the house?
+They did
+
+Nach ndeachaigh siad go dtí an
+teach? Chuaigh
+Didn't they go to the station?
+They did
+
+Nach ndeachaigh siad go dtí an
+stáisiún? Chuaigh
+Didn't they go to the shop?
+They did
+
+Nach ndeachaigh siad go dtí an
+siopa? Chuaigh
+The children went to the chapel
+Chuaigh na leanaí go dtí an séipéal
+
+Did anyone go to the shop?
+An ndeachaigh aon duine go dtí an
+siopa?
+The guard did not go to the house
+Ní dheachaigh an garda go dtí an
+teach
+They are going to school now
+Tá siad ag dul ar scoil anois
+I saw them going to Mass
+Chonaic mé ag dul ar Aifreann iad
+I understand
+tuigim
+a box
+bosca
+a large box
+bosca mór
+just now
+anois díreach
+so, therefore
+mar sin
+Would you like to come to the
+town Seán?
+
+Ar mhaith leat teacht go dtí an baile
+mór, a Sheáin?
+I would indeed. When?
+Ba mhaith go deimhin. Cén uair?
+Just now. I'm going to the station
+Anois díreach. Tá mé ag dul do dtí
+an stáisiún
+
+Who's coming on the train?
+Cé atá ag teacht ar an traein?
+
+No one's coming
+Níl aon duine ag teacht
+
+Why are you going there so?
+Cén fáth a bhfuil tú ag dul ann mar
+sin?
+
+There's a big box there for me,
+and I'd like to get it
+
+Tá bosca mór ann dom, agus ba
+mhaith liom é a fháil
+
+Oh, I understand. I would like to
+go with you
+
+Ó, tuigim. Ba mhaith liom dul leat
+
+# ** Ceacht 45 **
+
+a year
+bliain
+age
+aois
+of age, old
+d'aois
+fifty years
+caoga bliain
+sixty years
+seasca bliain
+seventy years
+seachtó bliain
+eighty years
+ochtó bliain
+ninety years
+nócha bliain
+one hundred years
+céad bliain
+51 years
+bliain is caoga
+52 years
+dhá bhliain is caoga
+
+53 years
+trí bliana is caoga
+54 years
+ceathre bliana is caoga
+She is 55 years old
+Tá sí cúig bliana is caoga d'aois
+She is 65 years old
+Tá sí cúig bliana is seasca d'aois
+She is 75 years old
+Tá sí cúig bliana is seachtó d'aois
+She is 85 years old
+Tá sí cúig bliana is ochtó d'aois
+She's 95 years old
+Tá sí cúig bliana is nócha d'aois
+She is 105 years old
+Tá sí céad is a cúig bliana d'aois
+He was 23 last year
+Bhí sé trí bliana is fiche anuraidh
+She's only 27 now
+Níl sí ach seacht mbliana is fiche
+anois
+He paid £48 for it
+Thug sé ocht bpunt is daichead air
+I bought it for £39
+Cheannaigh mé ar naoi bpunt is
+tríocha é
+
+Would you like to give £64 for it?
+Ar mhaith leatsa ceithre phunt is
+seasca a thabhairt air?
+on her
+uirthi
+like her
+mar í sin
+if she is
+má tá sí
+
+only thirty
+ach tríocha
+is that so?
+an mar sin é?
+as old as that
+chomh sean sin
+I thought
+shíl mé
+it's long since
+is fada ó
+
+she didn't look it
+ní raibh a chuma sin uirthi
+
+I saw Úna Mháire at the dance last
+night
+
+Chonaic mé Úna Mháire ag an
+damsha aréir
+
+Úna Mháire! An old thing like her
+out dancing!
+
+Úna Mháire! Seanrud mar í sin
+amuigh ag damsha!
+
+She's not that old, is she?
+Níl sí chomh sean sin, an bhfuil?
+
+She is indeed. She's 45 if she's a
+year
+
+Tá, go deimhin! Tá sí cúig bliana is
+daichead má tá sí bliain
+
+45! I thought she was only 30
+Cúig bliana is daichead! Shíl mé
+nach raibh sí ach tríocha
+
+It's a long time since she saw 30,
+indeed
+
+Is fada ó bhí sí tríocha, maise
+
+Is that so? She didn't look like that
+last night
+
+An mar sin é? Ní raibh a chuma sin
+uirthi aréir
+
+# ** Ceacht 46 **
+
+I must, I will have to
+caithfidh mé
+you must
+caithfidh tú
+he, she, the man must
+caithfidh sé, sí, an fear
+they must
+caithfidh siad
+to read
+léamh
+to write
+scríobh
+You must do it now
+Caithfidh tú é a dhéanamh anois
+You must get it now
+Caithfidh tú é a fháil anois
+You must eat it now
+Caithfidh tú é a ithe anois
+You must drink it now
+Caithfidh tú é a ól anois
+You must read it now
+Caithfidh tú é a léamh anois
+
+You must write it now
+Caithfidh tú é a scríobh anois
+They will have to get the money
+Caithfidh siad an t-airgead a fháil
+Will I have to be there?
+An gcaithfidh mé a bheith ann?
+You won't have to come to the
+school
+
+Ní chaithfidh tusa teacht go dtí an
+scoil
+I must go to the station
+Caithfidh mé dul go dtí an stáisiún
+Won't Seán have to come with me,
+Mammy?
+
+Nach gcaithfidh Seán teacht liom, a
+mhamaí?
+He must put on his coat
+Caithfidh sé a chóta a chur air
+last year
+anuraidh
+for two years past
+le dhá bhliain
+two years ago this week
+dhá bhliain is an tseachtain seo
+went by
+chuaigh thart
+quickly
+go tapa
+
+soon
+go luath
+to buy
+a cheannach
+I must get a new coat
+Caithfidh mé cóta nua a fháil
+A new coat! That one's very good
+Cóta nua! Tá an ceann sin go han-
+mhaith
+Indeed it isn't. I have it two years
+now
+
+Níl, maise. Tá sé agam le dhá
+bhliain anois
+Two years! Last year you bought
+it, wasn't it?
+
+Dhá bhliain! Anuraidh a cheannaigh
+tú é, nach ea?
+No; two years ago this week
+Ní hea; dhá bhliain is an tseachtain
+seo
+That two years went by very
+quickly
+
+Chuaigh an dá bhliain sin thart go
+tapa!
+Didn't it now? I must get a new
+one soon
+
+Nach ndeachaigh anois? Caithfidh
+mé ceann nua a fháil go luath
+
+# ** Ceacht 47 **
+
+the spring
+an t-earrach
+the summer
+an samhradh
+the autumn
+an fómhar
+the winter
+an geimhreadh
+the oats
+an coirce
+the potatoes
+na prátaí
+the wheat
+an chruithneacht
+sown, put
+curtha
+reaped, cut
+bainte
+done, made
+déanta
+spent, wasted, thrown
+caite
+
+gone away
+imithe
+broken
+briste
+Spring is here now. The potatoes
+are sown
+
+Tá an t-earrach ann anois. Tá na
+prátaí curtha
+Spring is here now. The wheat is
+sown
+
+Tá an t-earrach ann anois. Tá an
+chruithneacht curtha
+Spring is here now. The oats are
+sown
+
+Tá an t-earrach ann anois. Tá an
+coirce curtha
+Autumn is here now. The potatoes
+are dug
+
+Ta an fómhar ann anois. Tá na
+prátaí curtha
+Autumn is here now. The wheat is
+reaped
+
+Ta an fómhar ann anois. Tá an
+chruithneacht curtha
+Autumn is here now. The oats are
+reaped
+
+Ta an fómhar ann anois. Tá an
+coirce curtha
+Summer is gone now
+Ta an samhradh imithe anois
+Winter isn't gone yet
+Níl an geimhreadh caite fós
+
+Is the car broken on you?
+An bhfuil an carr briste ort?
+Aren't you gone home?
+Nach bhfuil tú imithe abhaile?
+The cake isn't made yet
+Níl an cáca déanta fós
+I have all the work done
+Tá an obair go léir déanta agam
+similar to, like
+cosúil le
+summer weather
+aimsir shamhraidh
+a large share, a good deal
+cuid mhór
+the work
+an obair
+the ground
+an talamh
+too wet
+rófhliuch
+well dry
+tirim go maith
+
+you have it done
+tá sé déanta agat
+
+no one has them dug
+níl siad bainte ag aon duine
+
+Good day, Séamas. The weather's
+good now
+
+Dia duit, a Shéamais. Tá an aimsir
+go maith anois
+
+It's beautiful, it's like the summer
+Tá sé go hálainn; tá sé cosúil le
+haimsir shamhraidh
+
+I suppose you have all the work
+done?
+
+Is dócha go bhfuil an obair go léir
+déanta agat?
+
+I have a lot done. But I haven't all
+the potatoes dug yet
+
+Tá cuid mhór déanta. Ach níl na
+prátaí go léir bainte agam
+
+No one has them dug yet. The
+ground was too wet
+
+Níl siad bainte ag aon duine fós. Bhí
+an talamh rófhliuch
+
+It was, but it's good and dry now
+Bhí, ach tá sé tirim go maith anois
+
+It is, thank God
+Tá, buíochas le Dia
+
+# ** Ceacht 48 **
+
+out of
+as
+out of the room
+as an seomra
+out of the house
+as an teach
+out of the garden
+as an ngairdín
+out of the park, field
+as an bpáirc
+out of the hospital
+as an ospidéal
+out of the city
+as an gcathair
+go
+téigh
+he is going
+tá sé ag dul
+he went
+chuaigh sé
+did he go?
+an ndeachaigh sé?
+
+did he not go?
+nach ndeachaigh sé?
+he didn't go
+ní dheachaigh sé
+He went out of the room
+Chuaigh sé amach as an seomra
+He went out of the house
+Chuaigh sé amach as an teach
+He went out of the garden
+Chuaigh sé amach as an ngairdín
+He went out of the park
+Chuaigh sé amach as an bpáirc
+He went out of the hospital
+Chuaigh sé amach as an ospidéal
+He went out of the city
+Chuaigh sé amach as an gcathair
+Didn't he go home from hospital
+yet?
+
+Nach ndeachaigh sé abhaile ón
+ospidéal fós?
+No one left this room
+Ní dheachaigh aon duine amach as
+an seomra seo
+Leave this place
+Téigh amach as an áit seo
+
+Did anyone get into the train?
+An ndeachaigh aon duine isteach sa
+traein?
+The horse ran out of the field a few
+minutes ago
+
+Rith an capall as an bpáirc cúpla
+nóiméad ó shin
+what?
+céard?
+the window
+an fhuinneog
+glass
+gloine
+broken glass
+gloine bhriste
+out of my way
+as mo bhealach
+Get out of my way, I'm working
+Téigh amach as mo bhealach, tá mé
+ag obair
+What are you doing?
+Céard tá á dheanamh agat?
+This window is broken. I have to
+put new glass in it
+
+Tá an fhuinneog seo briste. Caithfidh
+mé gloine nua a chur inti
+
+May I stay here with you, please?
+An féidir liom fanacht anseo leat,
+más é do thoil é?
+
+All right. But you'll have to work
+Tá go maith. Ach caithfidh tú obair a
+dhéanamh
+
+I'd like that. What work
+Ba mhaith liom sin. Cén obair?
+
+Put away all the broken glass
+Cuir an ghloine bhriste go léir as an
+áit
+
+what obair?
+cén obair?
+
+what are you doing?
+céard tá á dhéanamh agat?
+
+# ** Ceacht 49 **
+
+tell Seán
+abair le Seán
+tell the man
+abair leis an bhfear
+your father
+d'athair
+your mother
+do mháthair
+the shopkeeper
+fear an tsiopa
+cailín an tsiopa
+the shopgirl
+the milkman
+fear an bhainne
+the postman
+fear an phoist
+tell
+abair le
+he was telling it to
+bhí sé á rá le
+he told
+dúirt sé le
+
+didn't he tell?
+nach ndúirt sé le?
+did he tell?
+an ndúirt sé le?
+he didn't tell
+ní dúirt sé le
+Tell your father to do it
+Abair le d'athair é a dhéanamh
+Tell you mother to do it
+Abair le do mháthair é a dhéanamh
+Tell the shopkeeper to do it
+Abair le fear an tsiopa é a
+dhéanamh
+Tell the shopgirl to do it
+Abair le cailín an tsiopa é a
+dhéanamh
+Tell the milkman to do it
+Abair le fear an bhainne é a
+dhéanamh
+Tell the postman to do it
+Abair le fear an phoist é a
+dhéanamh
+I told your father to come in
+Dúirt mé le d'athair teacht isteach
+
+Did you tell mammy to do it now?
+An ndúirt tú le mamaí é a dhéanamh
+anois?
+No one told me not to eat it
+Ní dúirt aon duine liom gan é a ithe
+Tell the children to stay out
+Abair leis na leanaí fanacht amuigh
+Daddy told me to get it
+Dúirt daidí liom é a fháil
+
+Tell Máire to do her lessons
+Abair le Máire a ceachtanna a
+dhéanamh
+them
+iad
+run out
+rith amach
+what did she do?
+céard a rinne sí?
+to do them
+iad a dhéanamh
+that (she) is
+go bhfuil
+it's a good thing that (she) is
+is maith an rud go bhfuil
+
+Did you tell Máire to do her
+lessons?
+
+An ndúirt tú le Máire a ceachtanna a
+dhéanamh?
+
+I did, but she didn't come in yet
+Dúirt, ach níor tháinig sí isteach fós
+
+And what did she do?
+Agus céard a rinne sí?
+
+She went off out of the garden
+D'imigh sí amach as an ngairdín
+
+Run out again and tell her to do
+them
+
+Rith amach arís agus abair léi iad a
+dhéanamh
+
+Oh, she's there now. She's coming
+in
+
+Ó, tá sí ann anois. Tá sí ag teacht
+isteach
+
+It's well that she is
+Is maith an rud go bhfuil
+
+# ** Ceacht 50 **
+
+broken
+briste
+that it's broken
+go bhfuil sé briste
+I see
+feicim
+I think
+sílim
+I believe
+creidim
+I understand
+tuigim
+do you see?
+an bhfeiceann tú?
+don't you see?
+nach bhfeiceann tú?
+I don't see
+ní fheicim
+broken
+briste
+made, done
+déanta
+
+gone
+imithe
+spent, wasted
+caite
+eaten
+ite
+drunk
+ólta
+I see that it's broken
+Feicim go bhfuil sé briste
+I see that it's done
+Feicim go bhfuil sé déanta
+I see that it's gone
+Feicim go bhfuil sé imithe
+I see that it's spent
+Feicim go bhfuil sé caite
+I see that it's eaten
+Feicim go bhfuil sé ite
+I see that it's drunk
+Feicim go bhfuil sé ólta
+I think the children are gone now
+Sílim go bhfuil na leanaí imithe anois
+I believe everything is eaten
+Creidim go bhfuil gach rud ite
+I understand that one is spent
+Tuigim go bhfuil an ceann sin caite
+
+I don't believe they are done
+Ní chreidim go bhfuil siad déanta
+Do you believe they are all gone?
+An gcreideann tú go bhfuil siad go
+léir imithe?
+Don't you see I have that done
+Nach bhfeiceann tú go bhfuil sé sin
+déanta agam
+thirst
+tart
+I'm thirsty
+tá tart orm
+a couple
+cúpla
+a couple of bottles
+cúpla buidéal
+a couple of them
+cúpla ceann
+
+ale
+leann
+
+some place
+áit éigin
+
+if
+ma
+
+to get it
+é a fháil
+
+don't say
+na habair
+
+any ale
+aon leann
+
+I'm thirsty. Is there any ale in the
+house?
+
+Tá tart orm; an bhfuil aon leann sa
+teach?
+
+There were a couple of bottles
+there, but I think they've been
+drunk now
+
+Bhí cúpla buidéal ann, ach sílim go
+bhfuil siad ólta anois
+
+Here are five shillings, tell Seán to
+get a couple
+
+Seo cúig scilling, abair le Seán cúpla
+ceann a fháil
+
+I believe Seán is gone some place
+Creidim go bhfuil Seán imithe áit
+éigin
+
+Bad enough. Can Máire do it?
+Dona go leor. An féidir le Máire é a
+dhéanamh?
+
+She'll have to, if she's there
+Caithfidh sí, ma tá sí ann
+
+Don't say she's gone also
+Na habair go bhfuil sise imithe
+freisin
+
+# ** Ceacht 51 **
+
+he isn't coming
+níl sé ag teacht
+I think he's not coming
+sílim nach bhfuil sé ag teacht
+I hear
+cloisim
+I say
+deirim
+coming
+ag teacht
+going off
+ag imeacht
+staying
+ag fanacht
+listening
+ag éisteacht
+working
+ag obair
+looking
+ag féachaint
+I think he's not coming
+sílim nach bhfuil sé ag teacht
+
+I think he's not going off
+sílim nach bhfuil sé ag imeacht
+I think he's not staying
+sílim nach bhfuil sé ag fanacht
+I think he's not listening
+sílim nach bhfuil sé ag éisteacht
+I think he's not working
+sílim nach bhfuil sé ag obair
+I think he's not looking
+sílim nach bhfuil sé ag féachaint
+I hear that person's not coming
+Cloisim nach bhfuil an duine sin ag
+teacht
+I say you are not listening
+Deirim nach bhfuil tú ag éisteacht
+I hear your father isn't working at
+all
+
+Cloisim nach bhfuil d'athair ag obair
+ar chor ar bith
+I think the postman isn't gone yet
+Sílim nach bhfuil fear an phoist
+imithe fós
+I believe no one else is waiting
+Creidim nach bhfuil aon duine eile
+ag fanacht
+Don't you believe the guard is
+Nach gcreideann tú go bhfuil an
+
+coming?
+garda ag teacht?
+
+lying (down)
+luí
+for a long time
+le fada an lá
+
+for a long time
+le fada an lá
+a cold
+slaghdán
+these days
+na laethanta seo
+lying down, in bed
+ina luí
+I suppose
+is dócha
+it is a good place
+is maith an áit
+I didn't see Peadar for many a long
+day
+
+Ní fhaca mé Peadar le fada an lá
+
+He had a cold a week ago and he
+was in bed
+
+Bhí slaghdán air seachtain ó shin
+agus bhí sé ina luí
+
+I hear he's not working these days
+Cloisim nach bhfuil sé ag obair na
+laethanta seo
+
+The cold isn't gone yet, I suppose
+Níl an slaghdán imithe fós, is dócha
+
+Was he as bad as that?
+An raibh sé chomh dona sin?
+
+He wasn't, but he likes being in
+bed
+
+Ní raibh, ach is maith leis a bheith
+sa leaba
+
+I think he's right. It's a good place
+Sílim go bhfuil an ceart aige. Is
+maith an áit í
+
+# **Ceacht 52 **
+
+I know
+tá a fhios agam
+I suppose
+is dóigh liom
+I don't suppose
+ní dóigh liom
+perhaps
+b'fhéidir
+that N is
+go bhfuil N
+that N is not
+nach bhfuil N
+that N was
+go raibh N
+that N was not
+nach raibh N
+Perhaps they were here
+B'fhéidir go raibh siad anseo
+Perhaps they were there
+B'fhéidir go raibh siad ansin
+Perhaps they were inside
+B'fhéidir go raibh siad istigh
+
+Perhaps they were outside
+B'fhéidir go raibh siad amuigh
+Perhaps they were above
+B'fhéidir go raibh siad thuas
+Perhaps they were below
+B'fhéidir go raibh siad thíos
+I know there was one here
+Tá a fhios agam go raibh ceann
+anseo
+I know there's no one there
+Tá a fhios agam nach bhfuil aon
+duine ann
+I suppose the children are coming
+Is dóigh liom go bhfuil na leanaí ag
+teacht
+I don't suppose daddy was in
+Ní dóigh liom go raibh daidí istigh
+Perhaps they were waiting
+B'fhéidir go raibh siad ag fanacht
+Perhaps he's not gone yet
+B'fhéidir nach bhfuil sé imithe fós
+she was to go
+bhí sí le dul
+last night
+aréir
+
+her aunt's house
+teach a haintín
+to to
+go
+
+do you tell me?
+an ndeir tú liom é?
+away from home
+as baile
+a dance
+damhsa
+where?
+cén áit?
+one of these days
+lá de na laethanta seo
+I didn't see Bríd at the dance last
+night
+
+Ní fhaca mé Bríd ag an damhsa aréir
+
+Wasn't she there? Perhaps she's ill
+Nach raibh sí ann? B'fhéidir go bhfuil
+sí tinn
+I don't think she is; I think she's
+gone away from home
+
+Ní dóigh liom go bhfuil; sílim go
+bhfuil sí imithe as baile
+
+Where, now?
+Cén áit, maise?
+
+To Dublin, to her aunt's house
+Go Baile Átha Cliath, go teach a
+haintín
+
+Do you tell me so?
+An ndeir tú liom é?
+
+Yes, she was to go there one of
+these days
+
+Is ea, bhí sí le dul ansin lá de na
+laethanta seo
+
+# ** Ceacht 53 **
+
+bread
+arán
+a sweet cake
+cáca milis
+jam
+subh
+soup
+anraith
+coffee
+caife
+cocoa
+cócó
+make, do
+déan
+don't make, do
+ná déan
+he made, did
+rinne sé
+did he make, do?
+an ndearna sé?
+didn't he make, do?
+nach ndearna sé?
+
+he didn't make, do
+ní dhearna sé
+often
+go minic
+once
+uair amháin
+Didn't you ever make bread? I
+made it, often
+
+Nach ndearna tú arán riamh?
+Rinne, go minic
+Didn't you ever make jam? I made
+it, often
+
+Nach ndearna tú subh riamh?
+Rinne, go minic
+Didn't you ever make cake? I
+made it, often
+
+Nach ndearna tú cáca milis riamh?
+Rinne, go minic
+
+Didn't you ever make soup? I
+made it, often
+
+Nach ndearna tú anraith riamh?
+Rinne, go minic
+Didn't you ever make coffee? I
+made it, often
+
+Nach ndearna tú caife riamh?
+Rinne, go minic
+Didn't you ever make cocoa? I
+made it, often
+
+Nach ndearna tú cócó riamh?
+Rinne, go minic
+Did you ever do that work?
+An ndearna tú an obair sin riamh?
+
+I did it just once
+Rinne mé uair amháin é
+
+Don't do the like of that often
+Ná déan rud mar sin go minic
+I never made one
+Ní dhearna mé ceann riamh
+
+Do your lessons now, Pádraig
+Déan do cheachtanna anois, a
+Phádraig
+I'm making the tea now
+Tá mé ag déanamh an tae anois
+dig, reap, cut
+bain
+I dug, I reaped
+bhain mé
+dug, reaped
+bainte
+my garden
+an gairdín agamsa
+all
+go léir
+too wet
+rófhliuch
+
+however, anyway
+cibé ar bith
+
+I see you have the whole garden
+dug now, Séamus
+
+Feicim go bhfuil an gairdín go léir
+bainte agat anois, a Shéamais
+
+I have, thank God. I dug the
+potatoes yesterday
+
+Tá, buíochas le Dia. Bhain mé na
+prátaí inné
+
+Did you do all the work yourself?
+An ndearna tú féin an obair go léir?
+
+I did, surely. There wasn't much,
+really
+
+Rinne, cinnte. Ní raibh mórán ann,
+maise
+
+There was enough. I've nothing
+dug yet
+
+Bhí go leor ann. Níl aon rud bainte
+agam féin fós
+
+Do you tell me so? Why?
+An ndeir tú liom é? Cén fáth?
+
+I don't know. My garden was too
+wet anyway
+
+Níl a fhios agam. Bhí an gairdín
+agamsa rófhliuch, cibé ar bith
+
+# ** Ceacht 54 **
+
+without
+gan
+any
+aon
+without any butter
+gan aon im
+without any fish
+gan aon iasc
+without any meat
+gan aon fheoil
+without any eggs
+gan aon uibheacha
+without any biscuits
+gan aon bhrioscaí
+without any oranges
+gan aon oráistí
+come
+tar
+do not come
+ná tar
+he is coming
+tá sé ag teacht
+
+he was coming
+bhí sé ag teacht
+he came
+tháinig sé
+he didn't come
+níor tháinig sé
+did he come?
+ar tháinig sé?
+didn't he come?
+nár tháinig sé?
+Did you come home without any
+butter?
+
+Ar tháinig tú abhaile gan aon im?
+
+Did you come home without any
+fish?
+
+Ar tháinig tú abhaile gan aon iasc?
+
+Did you come home without any
+meat?
+
+Ar tháinig tú abhaile gan aon fheoil?
+
+Did you come home without any
+eggs?
+
+Ar tháinig tú abhaile gan aon
+uibheacha?
+Did you come home without any
+biscuits?
+
+Ar tháinig tú abhaile gan aon
+bhrioscaí?
+
+Did you come home without any
+oranges?
+
+Ar tháinig tú abhaile gan aon
+oráistí?
+
+Don't come home without a paper
+Ná tar abhaile gan aon pháipéar
+The dog came home with the
+children
+
+Tháinig an madra abhaile leis na
+leanaí
+
+I think he's coming home without
+them
+
+Sílim go bhfuil sé ag teacht abhaile
+gan iad
+Did he go home?
+An ndeachaigh sé abhaile?
+They are coming home to Ireland
+Tá siad ag teacht abhaile go hÉirinn
+They all went home on the train
+Chuaigh siad go léir abhaile ar an
+traein
+that
+gur
+that I left
+gur fhág mé
+goods
+earraí
+a bag of goods
+mála earraí
+
+a seat
+suíochán
+
+out with you
+amach leat
+
+which I wanted
+a bhí uaim
+
+Did you get those things I wanted?
+An bhfuair tú na rudaí sin a bhí
+uaim?
+
+I did surely. Out with you, and get
+them out of the car
+
+Fuair mé, cinnte. Amach leat, agus
+faigh as an gcarr iad
+
+There's nothing in the car, Pádraig
+Níl aon rud sa charr, a Phádraig
+
+Isn't there a bag of goods on the
+seat?
+
+Nach bhfuil mála earraí ar an
+suíochán?
+
+No, there's not a thing there. Don't
+say you came home without them
+
+Níl, níl rud ar bith ann. Ná habair
+gur tháinig tú abhaile gan iad
+
+I think now I left them in the shop
+Sílim anois gur fhág mé sa siopa iad
+
+# ** Ceacht 55 **
+
+to her
+di
+give
+tabhair
+don't give
+ná tabhair
+he is giving it
+tá sé á thabhairt
+he was giving it
+bhí sé á thabhairt
+did he give?
+ar thug sé?
+didn't he give?
+nár thug sé?
+he didn't give
+níor thug sé
+he gave
+thug sé
+the money
+an t-airgead
+the pay
+an pá
+
+the cheque
+an seic
+the change
+an briseadh
+the bill
+an bille
+the rent
+an cíos
+Didn't he give the money to her?
+Nár thug sé an t-airgead di?
+Didn't he give the pay to her?
+Nár thug sé an pá di?
+Didn't he give the cheque to her?
+Nár thug sé an seic di?
+Didn't he give the change to her?
+Nár thug sé an briseadh di?
+Didn't he give the bill to her?
+Nár thug sé an bille di?
+Didn't he give the rent to her?
+Nár thug sé an cíos di?
+Give the money to Seán, please
+Tabhair an t-airgead do Sheán, más
+é do thoil é
+
+I am giving it to him now
+Tá mé á thabhairt dó anois
+
+Don't give him the rent yet
+Ná tabhair an cíos fós dó
+
+He made out the bill for me then
+Rinne sé amach an bille dom ansin
+Did you get the change from the
+shopkeeper?
+
+An bhfuair tú an briseadh ó fhear an
+tsiopa?
+Did the cheque from Seán never
+come?
+
+Nár tháinig an seic ó Sheán riamh?
+
+to me
+chugam
+already
+cheana
+what are you saying?
+céard atá á rá agat?
+the house-money
+airgead an tí
+that
+gur
+
+that it's change you want
+gur briseadh atá uait
+
+You didn't give me the house-
+money yet, Pádraig
+
+Níor thug tú airgead an tí fós dom, a
+Phádraig
+
+Didn't I give it to you last night?
+Nár thug mé duit aréir é?
+
+Don't you know you didn't?
+Nach bhfuil a fhios agat nár thug?
+
+I was sure I did. Here's it for you
+again
+
+Bhí mé cinnte gur thug. Seo duit
+arís é
+
+Again! What are you saying? I
+didn't get it already
+
+Arís! Céard atá á rá agat? Ní bhfuair
+mé cheana é
+
+You have it now anyway. Is there
+any change coming to me?
+
+Tá sé agat anois, cibé ar bith. An
+bhfuil briseadh ag teacht chugam?
+
+Change! Maybe it's change you
+want!
+
+Briseadh! B'fhéidir gur briseadh atá
+uait?
+
+# ** Ceacht 56 **
+
+he is
+tá sé
+he isn't
+níl sé
+is he?
+an bhfuil sé?
+that he is
+go bhfuil sé
+that he isn't
+nach bhfuil sé
+he was
+bhí sé
+he wasn't
+ní raibh sé
+was he?
+an raibh sé?
+that he was
+go raibh sé
+that he wasn't
+nach raibh sé
+today
+inniu
+
+now
+anois
+yet
+fós
+again
+arís
+yesterday
+inné
+ever, never
+riamh
+already, before this
+cheana
+long ago, a long time ago
+fada ó shin
+Isn't he there today?
+Nach bhfuil sé ann inniu?
+Wasn't he there yesterday?
+Nach raibh sé ann inné?
+Was he never there?
+Nach raibh sé ann riamh?
+Is he not there now?
+Nach bhfuil sé ann anois?
+
+Is he not there yet?
+Nach bhfuil sé ann fós?
+Wasn't he there already?
+Nach raibh sé ann cheana?
+
+That dog is here again!
+Tá an madra sin anseo arís!
+Wasn't the postman there a long
+time ago?
+
+Nach raibh fear an phoist ann fada ó
+sin?
+I think Seán is there today
+Is dóigh liom go bhfuil Seán ann
+inniu
+I don't think anyone was there yet
+Ní dóigh liom go raibh aon duine
+ansin fós
+Wasn't she there with her mother?
+Nach raibh sí ann lena máthair?
+I think they're all there again
+today
+
+Sílim go bhfuil siad go léir ann arís
+inniu
+how?
+cén chaoi?
+how is she?
+cén chaoi a bhfuil sí?
+
+at her, with her
+aici
+
+soon
+go luath
+
+this morning
+ar maidin
+
+he thought
+shíl sé
+
+she will be
+beidh sí
+
+with God's help
+le cuidiú Dé
+
+Good day, Cáit. How is your
+mother today?
+
+Dia duit, a Cháit. Cén chaoi a bhfuil
+do mháthair inniu?
+
+She's well enough again this
+morning. But she wasn't too well
+yesterday
+
+Tá sí maith go leor ar maidin arís.
+Ach ní raibh sí go rómhaith inné
+
+Thank God she's well again. Was
+the doctor with her since?
+
+Buíochas le Dia go bhfuil sí go maith
+arís. An raibh an dochtúir aici ó shin
+
+He was in with her again yesterday
+Bhí sé istigh aici arís inné
+
+And what did he think?
+Agus céard a shíl sé?
+
+He thought she wasn't too bad
+Shíl sé nach raibh sí ródhona
+
+She'll be coming out again soon
+now, please God
+
+Beidh sí ag éirí amach arís go luath
+anois, le cuidiú Dé
+
+# ** Ceacht 57 **
+
+from
+ó
+from Seán
+ó Sheán
+from the teacher
+ón múinteoir
+from him
+uaidh
+get
+faigh
+don't get
+ná faigh
+he's getting it
+tá sé á fháil
+he was getting it
+bhí sé á fháil
+did he get?
+an bhfuair sé?
+didn't he get?
+nach bhfuair sé?
+he didn't get
+ní bhfuair sé
+
+he got
+fuair sé
+from the doctor
+ón dochtúir
+from the nurse
+ón mbanaltra
+from the farmer
+ón bhfeirmeoir
+from the carpenter
+ón siúinéir
+from the shoemaker
+ón ngréasaí
+from the tailor
+ón táilliúir
+Get them from the doctor
+Faigh ón dochtúir iad
+Get them from the nurse
+Faigh ón mbanaltra iad
+Get them from the farmer
+Faigh ón bhfeirmeoir iad
+Get them from the carpenter
+Faigh ón siúinéir iad
+
+Get them from the shoemaker
+Faigh ón ngréasaí iad
+Get them from the tailor
+Faigh ón táilliúir iad
+
+Did you get it from the doctor?
+An bhfuair tú ón dochtúir é?
+He was getting it from Seán
+Bhí se á fháil ó Sheán
+No one got them from the
+shoemaker
+
+Ní bhfuair aon duine ón ngréasaí iad
+
+I got it from the nurse already
+Fuair mé ón mbanaltra cheana é
+That news came from the doctor
+yesterday
+
+Tháinig an scéal sin ón dochtúir inné
+
+I didn't get the clothes from the
+tailor yet
+
+Ní bhfuair mé na héadaí ón táilliúir
+fós
+mistake
+dearmad
+my mistake (I forgot)
+mo dhearmad
+
+those things
+na rudaí sin
+
+I thought
+shíl mé
+
+from the shop
+ón siopa
+
+a while ago
+tamall ó shin
+
+Didn't you get those things from
+the shop yet, Máire?
+
+Nach bhfuair tú na rudaí sin ón
+siopa fós, a Mháire?
+
+No. You didn't give me any money
+Ní bhfuair. Níor thug tú aon airgead
+dom
+
+I forgot! I have no change now. Go
+out to daddy and get it from him
+
+Mo dhearmad! Níl briseadh agam
+anois.
+Téigh amach go daidí agus faigh
+uaidh é
+
+Where is he, do you know?
+Cá bhfuil sé, an bhfuil a fhios agat?
+
+I think he's outside in the garden
+Is dóigh liom go bhfuil sé amuigh sa
+ghairdín
+
+Didn't he go down the road a while
+ago?
+
+Nach ndeachaigh sé síos an bóthar
+tamall ó shin?
+
+Did he? I thought he was in the
+garden
+
+An ndeachaigh? Shíl mé go raibh se
+sa ghairdín
+
+# ** Ceacht 58 **
+
+me (I)
+mé
+you
+t(h)ú
+him, it
+é
+her, it
+í
+us, we
+sinn
+you
+sibh
+them
+iad
+one
+ceann
+I see
+feicim
+I don't see
+ní fheicim
+I saw
+chonaic mé
+
+did you see?
+an bhfaca tú?
+didn't you see?
+nach bhfaca tú?
+I didn't see
+ní fhaca mé
+Didn't you see us here?
+Nach bhfaca tú anseo sinn?
+Didn't you see us there?
+Nach bhfaca tú ansin sinn?
+Didn't you see us out?
+Nach bhfaca tú amuigh sinn?
+Didn't you see us in?
+Nach bhfaca tú istigh sinn?
+Didn't you see us up?
+Nach bhfaca tú thuas sinn?
+Didn't you see us down?
+Nach bhfaca tú thíos sinn?
+
+I see them here now
+Feicim anseo anois iad
+I don't see you too often now
+Ní fheicim go rómhinic anois thú
+
+The children saw you there
+yesterday
+
+Chonaic na leanaí ann inné thú
+
+Did you see her here already?
+An bhfaca tú anseo cheana í?
+
+I never saw you before
+Ní fhaca mé riamh cheana sibh
+You saw them long ago
+Chonaic sibh fada ó shin iad
+expectation, hope (literally "an
+eye")
+
+súil
+
+I hope
+tá súil agam
+that N saw
+go bhfaca N
+that N didn't see
+nach bhfaca N
+the tree
+an crann
+on the tree
+ar an gcrann
+
+either
+ach oiread
+
+don't tell him (it)
+ná habair leis é
+
+small children
+leanaí beaga
+
+Did you see myself and Seán up on
+the tree in the garden, mammy?
+
+An bhfaca tú mé féin agus Seán
+thuas ar an gcrann sa ghairdín, a
+mhamaí?
+
+I saw you indeed. I hope daddy
+didn't see you
+
+Chonaic mé do deimhin sibh. Tá súil
+agam nach bhfaca daidí sibh!
+
+Why, mammy?
+Cén fáth, a mhamaí?
+
+Because he doesn't like little
+children going up on that tree
+
+Mar ní maith leis leanaí beaga a dhul
+suas ar an gcrann sin
+
+I don't suppose he saw us anyway
+Ní dóigh liom go bhfaca sé sinn, cibé
+ar bith
+
+That's good. But mammy doesn't
+like you going on the tree either
+
+Is maith sin. Ach ní maith le mamaí
+sibh a dhul suas ar an gcrann, ach
+oiread
+
+Daddy's coming now. Don't tell
+him
+
+Tá daidí ag teacht anois. Ná habair
+leis é
+
+# ** Ceacht 59 **
+
+it rained
+chuir sé fearthainn
+it is raining
+tá sé ag cur fearthainne
+it snowed
+chuir sé sneachta
+it is snowing
+tá sé ag cur sneachta
+there was frost
+chuir sé sioc
+it is freezing
+tá sé ag cur seaca
+put
+cuir
+don't put
+ná cuir
+he/it is putting
+tá sé ag cur
+he/it was putting
+bhí sé ag cur
+did he put?
+ar chuir sé?
+
+didn't he put?
+nár chuir sé?
+he did not put
+níor chuir sé
+he put
+chuir sé
+It is raining tonight
+Tá sé ag cur feachtainne anocht
+It's not raining tonight
+Níl sé ag cur fearthainne anocht
+It is snowing tonight
+Tá sé ag cur sneachta anocht
+It's not snowing tonight
+Níl sé ag cur sneachta anocht
+It is freezing tonight
+Tá sé ag cur seaca anocht
+It's not freezing tonight
+Níl sé ag cur seaca anocht
+It was freezing last night
+Bhí sé ag cur seaca aréir
+It didn't snow today yet
+Níor chuir sé sneachta inniu fós
+
+Did it rain yesterday?
+Ar chuir sé fearthainne inné?
+
+Is it raining now?
+An bhfuil sé ag cur fearthainne
+anois?
+
+It's not freezing at all
+Níl sé ag cur seaca ar chor ar bith
+It was snowing indeed
+Bhí sé ag cur sneachta go deimhin
+evening
+tráthnóna
+washing
+níochán
+the clothes
+na héadaí
+yesterday evening
+tráthnóna inné
+this morning
+ar maidin
+heavily
+go trom
+
+love (form of address)
+a stór
+
+I have this washing done now,
+thank God
+
+Tá an níochán seo déanta anois
+agam, buíochas le Dia
+
+Don't put out the clothes yet,
+mammy
+
+Ná cuir amach na héadaí fós, a
+mhamaí
+
+Why, love?
+Cén fáth, a stór?
+
+Because it's too wet. It's raining
+now
+
+Mar tá sé rófhliuch. Tá sé ag cur
+fearthainne anois
+
+Don't say it's raining again! It
+rained heavily yesterday evening
+also
+
+Ná habair go bhfuil sé ag cur
+fearthainne arís! Chuir sé go trom
+tráthnóna inné freisin
+
+And it was beautiful this morning
+Agus bhí sé go hálainn ar maidin
+
+It was, but there was frost last
+night. That's not good
+
+Bhí, ach chuir sé sioc aréir. Ní maith
+an rud é sin
+
+# ** Ceacht 60 **
+
+away from home
+as baile
+towards the north
+ó thuaidh
+towards the south
+ó dheas
+towards the east
+soir
+towards the west
+siar
+go off
+imigh
+don't go off
+ná himigh
+he is going off
+tá sé ag imeacht
+he was going off
+bhí sé ag imeacht
+did he go off?
+ar imigh sé?
+didn't he go off?
+nár imigh sé?
+
+he didn't go off
+níor imigh sé
+he went off
+d'imigh sé
+He went north
+D'imigh sé ó thuaidh
+He went south
+D'imigh sé ó dheas
+He went east
+D'imigh sé soir
+He went west
+D'imigh sé siar
+He went out
+D'imigh sé amach
+He went away from home
+D'imigh sé as baile
+Don't go out tonight
+Ná himigh amach anocht
+Go home now directly
+Imigh abhaile anois díreach
+He was going off from that place
+Bhí sé ag imeacht ón áit sin
+
+Did he go over (west) the road
+yet?
+
+Ar imigh sé siar an bóthar fós?
+
+He didn't go yet
+Níor imigh sé fós
+
+Didn't anyone leave the place?
+Nár imigh aon duine as an áit?
+a neighbour
+comharsa
+of the neighbours
+de na comharsana
+too well
+go rómhaith
+a couple of times
+cúpla uair
+for some time
+le tamall
+I don't know is any of the
+neighbours ill, Pádraig?
+
+Níl a fhios agam an bhfuil aon duine
+de na comharsana tinn, a Phádraig?
+I didn't hear there was. Why?
+Níor chuala mé go raibh. Cén fáth?
+
+I saw the nurse going by (west) a
+couples of times today
+
+Chonaic mé an bhanaltra ag imeacht
+léi siar cúpla uair inniu
+
+Indeed, doesn't she go by (west)
+often?
+
+Maise, nach dtéann sí siar go minic?
+
+She does, but the doctor went by
+(west) a while ago also
+
+Téann, ach d'imigh an dochtúir siar
+tamall ó shin freisin
+
+Perhaps old Séamus isn't too well
+B'fhéidir nach bhfuil sean-Séamus
+go rómhaith
+
+Perhaps. I didn't see him for some
+time, anyway
+
+B'fhéidir é. Ní fhaca mé é le tamall,
+cibé ar bith
